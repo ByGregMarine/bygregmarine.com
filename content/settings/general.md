@@ -1,8 +1,7 @@
 ---
-title: C'est La Vue - Nuxt 3
-sub_title: A Netlify CMS Template using Nuxt 3
-hero_message: This template uses Nuxt 3, Tailwind CSS, and Daisy UI to display
-  content using the power of Netlify CMS
-cta_text: Tell Me More
+title: Greg Marine
+sub_title: “The Website”
+hero_message: Welcome to my collection of writings, art, photography, and recipes!
+cta_text: Let’s Go!
 hero_image: /images/hero.jpeg
 ---
