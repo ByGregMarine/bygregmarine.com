@@ -5,5 +5,4 @@ landing: true
 order: 1
 url: /blog
 ---
-
-This is a collection of my articles and musings. I hope you enjoy reading these as much as I enjoyed writing them!
+Although writing is not my profession, writing is one of my passions. What you’ll find here is a collection of my musings and thoughts on my world. Anything from stories of my life to reviews of my favorite places, there is quite a variety to enjoy!
