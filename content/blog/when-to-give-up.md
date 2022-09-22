@@ -51,7 +51,7 @@ As I went through counseling to heal from the above mentioned divorce, I was enc
 
 It did not take long for me to find "love" again. I looked to online matching services this time around. And, based on some sort of algorithm, I felt confident I had found true love. At first, it seemed just like a match made in Heaven, again. However, it did not take eight years for me to conclude it was all a mismatch. In fact, it was just after two years I decided it was not working out and I called for a separation. And shortly after that, I filed for a divorce.
 
-Today, I am now in my third marriage. It is my sincerest hope that neither of us give up on each other. I don't blame my wife for insisting I never say "third time's the charm." However, my experience has now taught me both sides of the quitting coin. And I find it much easier to deal with issues in a relationship. Whether that is with a spouse, or any other human being. It takes compromise more than it takes someone giving up.
+Not long after my second marriage ended, I found myself in a new relationship which also became a marriage. Our dating time went like most in that it was a beautiful love story. It was a fairytale type relationship. In fact, we were married at The Walt Disney World Resort in Florida. However, after the honeymoon was over, the honeymoon really was over. The fairytale became more like a nightmare for both of us. Once again, I was the one who filed for divorce and another marriage had come and gone.
 
 # When to Give Up
 
