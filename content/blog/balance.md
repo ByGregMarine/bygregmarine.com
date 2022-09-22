@@ -86,4 +86,4 @@ All of this works for me and is based on my own personal experience. This is by 
 
 Whatever your motivation is, balance is truly an important thing to find in this life. I've been around for more than 4 decades now. In all that time, balance has been the most beneficial asset I have had in my arsenal against the troubles of this life. The world will beat me up. But now it will never be able to knock me out! It is my sincere hope that you too find ways and techniques to achieve balance.
 
-![Lotus Flower](/image/balance-08.jpg "Lotus Flower")
+![Lotus Flower](/images/balance-08.jpg "Lotus Flower")
