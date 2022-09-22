@@ -1,6 +1,11 @@
 ---
 title: When to Give Up
 date: 2022-09-22T23:21:54.489Z
+featured_image: /images/when-to-give-up-1.jpg
+tags:
+  - Motivatio
+  - Lifestyle
+  - Choices
 ---
 Every single day I am faced with choices. The very first one is whether or not to get up once I wake. The last decision is typically when to go to bed. I can safely say, however, that the most difficult choice I face daily is when to give up. As a software developer, this will sometimes mean when I need to give up on a problem and take a break. But how does that relate to other circumstances?
 
@@ -12,7 +17,7 @@ One of the most wonderful scenes a grandmother could experience is seeing her hu
 
 On one of these trips my uncles also joined us in search of [Grass Carp](https://en.wikipedia.org/wiki/Grass_carp) that had been introduced into a feeder lake that spilled into Heritage Lake. As these were large fish, too large to be reeled in with conventional means, one of my uncles would shoot them with a bow and arrow and I was tasked with grabbing them with a fish net. We didn't actually catch any that day. This was because I was off watching these majestic creatures come down the drain pipe from the feeder lake. They were just too beautiful to catch even though I could have just snatched them with the net as they came down.
 
-![Fish](/assets/img/collections/posts/when-to-give-up/when-to-give-up-1.jpg "Fish")
+![Fish](/images/when-to-give-up-1.jpg "Fish")
 
 On other visits to my grandparents house, I had one of those children's fishing poles with a Snoopy character on it. But like most children, it didn't take me long to get bored sitting there waiting for a fish to bite. One of the most vivid memories I have of fishing is a time when I began to reel the line in as fast as my little arm and hand could reel. As the end of the line approached the surface, guess who was following it? I'd say it was a nine or so inch bass!!! But with the speed I had built up, the bait was out of the water before he could catch up and so I lost the fish.
 
@@ -28,7 +33,7 @@ One of the skills I applied in that job was writing software to empower me to se
 
 While I was a low level IT team member, I would sign my emails with either a "God Bless <><" or just put a "<><" after my name. For a while that mostly went on without any mention. If it were mentioned, it was simply a "thank you for that" kind of acknowledgment. However, not much time went on before it offending someone. And I was asked to stop applying that to my email signature. I promptly refrained from doing so.
 
-![Church](/assets/img/collections/posts/when-to-give-up/when-to-give-up-2.jpg "Church")
+![Church](/images/when-to-give-up-2.jpg "Church")
 
 However, about a year and another promotion later, I started adding it again. My take on it was it was part of my religious expression. At this point, I was now the manager of the IT department. As a manager, I was now responsible for multiple employees. They weren't direct reports. However, I was still responsible for making sure they did their jobs well and was responsible for setting a quality example.
 
@@ -40,7 +45,7 @@ In hindsight, it is quite clear to me today that my employer was in the right to
 
 In early Spring 2000, I was somewhat tired of waiting to find "the one." So I prayed the prayer, "Lord, show me who You want me to marry or take the desire out of my heart." Just about a week later, I met my first wife. Like many young couples, we felt it was a match made in Heaven and we were going to live happily ever after. This all seemed to be the case until shortly after the aforementioned religious stance at a former employer. One child, and several fights later, we found ourselves in a legal battle to dissolve our union. Ultimately, my wife had decided to leave me. About a year later, and after our ninth anniversary, we were no longer married.
 
-![Wedding Rings](/assets/img/collections/posts/when-to-give-up/when-to-give-up-3.jpg "Wedding Rings")
+![Wedding Rings](/images/when-to-give-up-3.jpg "Wedding Rings")
 
 As I went through counseling to heal from the above mentioned divorce, I was encouraged to wait a bit before looking for love again. The amount of time I was advised to wait was one year for every two years of marriage. So, for me, that came out to about four years since we were "happily" marriage for eight years. And after four years of being single, I decided I was ready for romance once again.
 
@@ -54,7 +59,7 @@ Now that I have given three types of experiences of when I had either given up o
 
 I have absolutely no control over anything, or anyone else, in my life. In fact, the only thing I do have control over is how I handle what life throws at me. One of my life's mottos is, "It isn't what happens to me that is important. But rather how I handle what happens that is important." I believe this so strongly that you will rarely find me blaming circumstance for my woes. Like most humans, I do look for something or someone else to blame for my problems. However, at the end of the day, it is really up to me to decide how it all effects me. And now at the end of 2020, I am not only glad to be alive, I am confident I have decided to make the most of it by not giving up!
 
-![Ocean](/assets/img/collections/posts/when-to-give-up/when-to-give-up-4.jpg "Ocean")
+![Ocean](/images/when-to-give-up-4.jpg "Ocean")
 
 What this all translates to is how I ultimately decide when to give up or continue moving forward. When it comes to software development, this really amounts to when I need to step back and take a break. In most other events of my life, it comes down to how much more energy I have left to pursue whatever the goals are. I can say this, though, I feel that in each season of my life, I come closer to understanding what I am capable of handling and when it is time to push on or give up. And by the time my life is over, and if I live long enough to be ready for my end, I know with all certainty I'll be ready for my own death.
 
