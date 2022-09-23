@@ -8,7 +8,7 @@ tags:
   - Lifestyle
   - Religion
 ---
-For thousands of years, mankind has been contemplating and philosophizing, what I have come to accept as, the importance balance plays in life. In my own life, this has come in many forms. From compensation for work I do for an employer to faith-based organized religion, I have always had a need to find some sort of balance. This has been difficult to achieve at times, however. Sometimes outside sources such as world events can effect my balance. Other times, it can simply be my own inner thoughts. The former is out of my own control. However, the latter is quite within my grasp. To help with inner thoughts, I look to some seemingly odd, and very small, places.
+For thousands of years, mankind has been contemplating and philosophizing, what I have come to accept as, the importance balance plays in life. In my own life, this has come in many forms. From compensation for work I do for an employer to faith-based organized religion, I have always had a need to find some sort of balance. This has been difficult to achieve at times, however. Sometimes outside sources such as world events can effect my balance. Other times, it can simply be my own inner thoughts. The former is out of my own control. The latter is quite within my grasp. To help with inner thoughts, I look to some seemingly odd, and very small, places.
 
 <!--more-->
 
@@ -16,11 +16,11 @@ For thousands of years, mankind has been contemplating and philosophizing, what 
 
 In my article *[When to Give Up](/posts/when-to-give-up)*, I mentioned I was raised in the church. Among other things, I was taught it was important to pray to God concerning everything and meditate on the scriptures from the Christian Holy Bible. Prayer and meditation is a very personal experience that exists in several religions. And for very good reason. In most cases, these exercises will allow you to relax, recharge, and refocus on what matters most.
 
-In the case of Christianity, prayer is a communication channel to the Creator of all things. Growing up I believed that this dialog would include God answering my prayers in a way that would make sense to me. As I became a teenaged boy, I quickly realized this was not the case. Most of the time, what I thought were answers from God would not make much sense at all. But I would always try to accept whatever form the answer would come in.
+In the case of Christianity, prayer is a communication channel to the Creator of all things. Growing up I believed that this dialog would include God answering my prayers in a way that would make sense to me. As I became a teenager, I quickly realized this was not the case. Most of the time, what I thought were answers from God would not make much sense at all. But I would always try to accept whatever form the answer would come in.
 
 ![Praying to Jesus](/images/balance-01.jpg "Praying to Jesus")
 
-Meditating on the scriptures would most often be through Bible study groups at church. However, I would also try to find time at home to read and ponder what the original authors had intended to convey in their words. Over all, the Bible was a blueprint for how I wanted to live my life and how I would choose what other things and who would influence me. My understanding of what I was reading was quite limited in my early years. And once again, as I became a teenaged boy, I quickly realized my understanding was a bit off.
+Meditating on the scriptures would most often be through Bible study groups at church. However, I would also try to find time at home to read and ponder what the original authors had intended to convey in their words. Over all, the Bible was a blueprint for how I wanted to live my life and how I would choose what other things and who would influence me. My understanding of what I was reading was quite limited in my early years. And once again, as I became a teenager, I quickly realized my understanding was a bit off.
 
 One of the topics that interested me most in my church youth group was the study of other religions. Of those we studied, there seemed to be a common theme. Each had some sort of deity system, a scripture text, a way to live a good life, and a sense of community. However, all of them seemed to be at odds with each other. I thought to myself, how could this be. With so many similarities, how could all of these religions teach their followers to hate each other so much. It was at this time I felt they must all be wrong.
 
@@ -48,7 +48,7 @@ As I mentioned before, the Christian Holy Bible has been my guide to almost ever
 
 So, what is up with this "come to Jesus" moment for me?!? Well, I would have to say it is all about how Jesus lived. He questioned the teachings of the church of the day, He loved everyone, and He was LOVE! Although I am not Jesus, or close to even perfect for that matter, I can completely related to questioning what I have been taught by the church, how to love everyone, and how to be LOVE for someone else.
 
-Three failed marriages, and six church congregations later, I'm still looking for my place in Christianity. I have certainly not lost my faith in a higher power. More than anything, I would say I have lost faith in other people. Especially those who worship the religion over the deity the religion is based on. There is very little balance between service and faith when it came to the congregations I have been a part of. And I feel balance is the important piece of the puzzle missing for me.
+Three failed marriages, and seven church congregations later, I'm still looking for my place in Christianity. I have certainly not lost my faith in a higher power. More than anything, I would say I have lost faith in other people’s use of religion. Especially those who worship the religion over the deity the religion is based on. There is very little balance between service and faith when it came to the congregations I have been a part of. And I feel balance is the important piece of the puzzle missing for me.
 
 # Yin and Yang
 
@@ -70,20 +70,20 @@ Although Zen began in a religious context, I have adapted it to a more general p
 
 ![Desktop Zen Garden](/images/balance-05.jpg "Desktop Zen Garden")
 
-At the beginning of 2021, after a very long and traumatic 2020, I decided I would build a desktop Zen garden. Basically, this is a tray or set of trays of sand with objects in it and designs raked or stamped into the sand. It is an art form to calm the mind or prepare it for meditation. It is not necessary to work the garden each day. However, I have found it to be the perfect way to start my day to get my mind ready for working. And at the end of the day, I clear my Zen garden to train my mind to let the work day go and enjoy my evening. The objects I use with my Zen gardening vary from rocks to little momentos of my travels. It allows me to connect my past, present, and future in a circular reference.
-
-![Bonsai Tree](/images/balance-06.jpg "Bonsai Tree")
-
-Another practice I have adopted is the art of Bonsai. In its simplest form, Bonsai is a miniature potted tree. I carefully, and purposefully, prune the trees branches, leaves, and roots to form life-size like miniature trees. I have also began exploring a root art form to Bonsai, Penjing. Penjing is the art of miniature landscapes. So beyond tiny trees, this also includes tiny scenes such as objects to accent the trees. I have found this provides another positively calming effect that brings balance to the stress and negativity of life. I care for the trees, and in return they give me beauty and a bit of clean air!
+At the beginning of 2021, after a very long and traumatic 2020, I decided I would build a desktop Zen garden. Basically, this is a tray, or set of trays, of sand with objects in it and designs raked or stamped into the sand. It is an art form to calm the mind or prepare it for meditation. It is not necessary to work the garden each day. The objects I use with my Zen gardening vary from rocks to little momentos of my travels. It allows me to connect my past, present, and future in a circular reference.
 
 ![Painting of Mount Fuji](/images/balance-07.jpg "Painting of Mount Fuji")
 
-Most recently, I have begun painting when I become anxious about something. I also paint when I feel inspired to do so. I just take to the canvas and brush when something is on my mind that I do not want to negatively impact my day. Because of my desktop Zen gardening, I decided the best size is a 4x4 inch canvas with miniature easels. This allows me to also display the paintings in my Zen garden from time to time. This form of art has been a great therapeutic tool for helping me find balance when Zen gardening and Bonsai/Penjing have not worked.
+Although I have been artistic all of my life, I recently have begun painting when I become anxious about something. I also paint when I feel inspired to do so. I just take to the canvas and brush when something is on my mind that I do not want to negatively impact my day. Because of my desktop Zen gardening, I decided the best size is a 4x4 inch canvas with miniature easels. This allows me to also display the paintings in my Zen garden from time to time. This form of art has been a great therapeutic tool for helping me find balance. Plus, it sure is a lot of fun!
+
+![Photo]( "Photo")
+
+
 
 # Namaste Chakra
 
 All of this works for me and is based on my own personal experience. This is by no means a list of specific things I am suggesting you give a try. All I really hope to do by writing all of this is to inspire you to find balance. I also wanted to give you a glimpse of what I am discovering on this journey. This is also not an exhaustive study on balance and how it has affected me. If you completely disagree with me, that is perfectly fine. If you find this useful, that is great as well!
 
-Whatever your motivation is, balance is truly an important thing to find in this life. I've been around for more than 4 decades now. In all that time, balance has been the most beneficial asset I have had in my arsenal against the troubles of this life. The world will beat me up. But now it will never be able to knock me out! It is my sincere hope that you too find ways and techniques to achieve balance.
+Whatever your motivation is, balance is truly an important thing to find in this life. I've been around for more than 4 decades now. In all that time, balance has been the most beneficial asset I have had in my arsenal against the troubles of my life. The world will beat me up. But now it will never be able to knock me out! It is my sincere hope that you too find ways and techniques to achieve balance.
 
 ![Lotus Flower](/images/balance-08.jpg "Lotus Flower")
