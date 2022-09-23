@@ -1,6 +1,10 @@
 ---
 title: Before and After
 date: 2022-09-23T00:34:42.994Z
+featured_image: /images/before-and-after-5.jpg
+tags:
+  - Lifestyle
+  - Health
 ---
 Like many people my age, my body has gone through many sizes over the years. As a teen and young adult, I weighed between 115 and 125 pounds. I was quite active and was able to eat just about anything I wanted. I almost had to so I could keep on weight. According to stories I heard long after this time, I was apparently quite the looker. Girls wanted me but never told me!
 
@@ -10,7 +14,7 @@ As I progressed through my twenties, I grew to about 240. I continued to eat wha
 
 Alas, like most good things, this came to an end. As my IT career progressed, my activity came to a halt and my diet got worse. So naturally I gained weight again and eventually went up to 260. You would rarely find me without Mountain Dew and candy or a cupcake. By July 2017, I was known for being large and in charge!
 
-![Mountain Dew and Candy](/assets/img/collections/posts/before-and-after/dew-candy.jpg "Mountain Dew and Candy")
+![Mountain Dew and Candy](/images/before-and-after-2.jpg "Mountain Dew and Candy")
 
 # Heart Scare
 
@@ -20,7 +24,7 @@ It probably would not have been so bad, but I tend to give off the impression I 
 
 Then one fateful night, the system that supported all of the equipment we provided our clients crashed. Although I wasn't the one doing the recovery work on the system, I felt the pressure of the thought that all of our clients were offline. I experienced chest pain; which became unbearable and I was taken to the ER with what we thought was a heart attack. Fortunately, it turned out to be the anxiety straining my heart and not an actual heart attack. This did, however, uncover a high blood pressure issue.
 
-![High Blood Pressure](/assets/img/collections/posts/before-and-after/blood-pressure.jpg "High Blood Pressure")
+![High Blood Pressure](/images/before-and-after-1.jpg "High Blood Pressure")
 
 # Weight Loss 2.0
 
@@ -30,7 +34,7 @@ As I began the new diet, I looked into other eating habits I could work on. Keto
 
 By March 2018, 4 months after my heart scare, I had lost about 70 pounds. I was amazed at how I felt and how much energy I had. And needless to say, I was going to need to go shopping for new clothes. Most everyone in my life was telling me how great I looked. This gave me a great deal of confidence I had never had. That actually led me to resign from the position as the aforementioned CIO roughly a month later, as I realized what the stress was doing to me. So this was a huge turning point in my life.
 
-![Before and After Health Scare](/assets/img/collections/posts/before-and-after/jul2017-mar2018.jpg "Before and After Health Scare")
+![Before and After Health Scare](/images/before-and-after-3.jpg "Before and After Health Scare")
 
 # So "2020"
 
@@ -40,7 +44,7 @@ My wife did the original shaving of my head. It was very much a success. I recei
 
 The difference in how I looked pre-covid and post-covid is an honorable mention in this article.
 
-![Hair, No Hair](/assets/img/collections/posts/before-and-after/pre-covid-post.jpg "Hair, No Hair")
+![Hair, No Hair](/images/before-and-after-4.jpg "Hair, No Hair")
 
 # Before and After
 
