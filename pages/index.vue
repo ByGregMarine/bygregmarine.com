@@ -65,6 +65,96 @@
   const photoPosts = await queryContent('/photo').sort({ date: 1 }).limit(3).find();
 
   useHead({
-    title: "Landing Page"
+    title: "Landing Page",
+    meta: [
+      {
+        name: "description",
+        content: settings.hero_message
+      },
+      {
+        property: "site_name",
+        content: settings.title
+      },
+      {
+        property: "og:title",
+        content: settings.title
+      },
+      {
+        property: "og:description",
+        content: settings.hero_message
+      },
+      {
+        property: "og:type",
+        content: "article"
+      },
+      {
+        property: "og:url",
+        content: settings.base_url
+      },
+      {
+        property: "og:image",
+        content: settings.base_url + settings.social_image
+      },
+      {
+        property: "og:image:url",
+        content: settings.base_url + settings.social_image
+      },
+      {
+        property: "og:image:secure_url",
+        content: settings.base_url + settings.social_image
+      },
+      {
+        property: "og:image:alt",
+        content: settings.social_image_alt
+      },
+      {
+        name: "twitter:card",
+        content: "summary_large_image"
+      },
+      {
+        name: "twitter:site",
+        content: "https://twitter.com/" + settings.twitter
+      },
+      {
+        name: "twitter:site:id",
+        content: "https://twitter.com/" + settings.twitter
+      },
+      {
+        name: "twitter:creator",
+        content: "https://twitter.com/" + settings.twitter
+      },
+      {
+        name: "twitter:creator:id",
+        content: "https://twitter.com/" + settings.twitter
+      },
+      {
+        name: "twitter:title",
+        content: settings.title
+      },
+      {
+        name: "twitter:text:title",
+        content: settings.title
+      },
+      {
+        name: "twitter:description",
+        content: settings.hero_message
+      },
+      {
+        name: "twitter:url",
+        content: settings.base_url
+      },
+      {
+        name: "twitter:image:src",
+        content: settings.base_url + settings.social_image
+      },
+      {
+        name: "twitter:image",
+        content: settings.base_url + settings.social_image
+      },
+      {
+        name: "twitter:image:alt",
+        content: settings.social_image_alt
+      },
+    ]
   })
 </script>
