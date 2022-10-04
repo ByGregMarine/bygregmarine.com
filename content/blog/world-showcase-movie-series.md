@@ -8,7 +8,7 @@ tags:
   - Movies
   - EPCOT
 ---
-As a huge fan and frequent guest at the Walt Disney World Resort in central Florida, I was quite broken hearted when the gates closed on March 15, 2020. The months following brought news of Cast Member layoffs and when they reopened in July that year, there remained unanswered questions about when all of the magic would return. Stage shows, parades, and night time extravaganzas were all indefinitely postponed or completely canceled. Since I was not able to visit the most Magical Place on Earth between March and September in 2020, I had to find new ways to enjoy the magic at home. Thankfully, just before the pandemic took over the world, [Disney+](https://www.disneyplus.com/) was introduced. So, one of the ways I could enjoy the magic at home was what I call the World Showcase Movie Series!
+As a huge fan and frequent guest at the Walt Disney World Resort in central Florida, I was quite broken hearted when the gates closed on March 15, 2020. The months following brought news of Cast Member layoffs and when they reopened in July that year, there remained unanswered questions about when all of the magic would return. Stage shows, parades, and night time extravaganzas were all indefinitely postponed or completely canceled. Since I was not able to visit the most Magical Place on Earth between March and September in 2020 (the first time I went after the reopening), I had to find new ways to enjoy the magic at home. Thankfully, just before the pandemic took over the world, [Disney+](https://www.disneyplus.com/) was introduced. So, one of the ways I could enjoy the magic at home was what I call the World Showcase Movie Series!
 
 <!--more-->
 
