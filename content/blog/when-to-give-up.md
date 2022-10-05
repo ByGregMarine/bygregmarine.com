@@ -3,7 +3,7 @@ title: When to Give Up
 date: 2022-09-22T23:21:54.489Z
 featured_image: /images/when-to-give-up-1.jpg
 tags:
-  - Motivatio
+  - Motivation
   - Lifestyle
   - Choices
 ---
