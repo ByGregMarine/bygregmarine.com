@@ -3,7 +3,7 @@ title: Common Cubed
 date: 2022-10-05T00:45:38.187Z
 featured_image: /images/common-cubed-4.jpg
 ---
-Over the years I have learned what is and isn't important in my life. With a global pandemic that hit home personally, as well as some new career moves I did not expect, 2020 has been a great reminder of what I should make my priorities. For best way to be able to focus on those important priorities, I look to Commonsense, Common Courtesy, and Common Decency. The "Common Cubed" always leads me to the inevitability of discovering the root of all things important.
+Over the years I have learned what is and isn't important in my life. With a global pandemic that hit home personally, as well as some new career moves I did not expect, the early 2k-20‘s were a great reminder of what I should make my priorities. For the best way to be able to focus on those important priorities, I look to Commonsense, Common Courtesy, and Common Decency. The "Common Cubed" always leads me to the inevitability of discovering the root of all things important.
 
 <!--more-->
 
