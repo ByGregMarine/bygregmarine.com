@@ -1,6 +1,7 @@
 ---
 title: Common Cubed
 date: 2022-10-05T00:45:38.187Z
+featured_image: /images/common-cubed-4.jpg
 ---
 Over the years I have learned what is and isn't important in my life. With a global pandemic that hit home personally, as well as some new career moves I did not expect, 2020 has been a great reminder of what I should make my priorities. For best way to be able to focus on those important priorities, I look to Commonsense, Common Courtesy, and Common Decency. The "Common Cubed" always leads me to the inevitability of discovering the root of all things important.
 
@@ -16,7 +17,7 @@ This all seemed to work really well until I would come to a four-way stop that w
 
 In theory, a traffic circle is a practical way of handling intersections that are frequently used. They are typically designed to slow traffic down to a pace that would allow equitable access to the intersecting streets without requiring everyone to stop. Again, that is the theory.
 
-![Commonsense](/assets/img/collections/posts/common-cubed/common-cubed-1.jpg "Commonsense")
+![Commonsense](/images/common-cubed-1.jpg "Commonsense")
 
 In practice, however, many people either do not decrease their speed while others come to a complete stop as if it were a four-way stop. This isn't a big deal during low traffic periods. But during a rush hour time frame, this can completely defeat the purpose. One would think Commonsense would be engaged. In my experience, this has not been the case.
 
@@ -30,7 +31,7 @@ There were 15 of us who went on that trip and we stayed in a total of 4 rooms sp
 
 Upon arriving at the resort hotel, we had to go through the check-in process. As you can imagine, other guests were also arriving at the time. One such guest had just removed their luggage from their vehicle and proceeded to dump the contents all over the parking lot. I could only imagine the embarrassment they must have felt.
 
-![Common Courtesy](/assets/img/collections/posts/common-cubed/common-cubed-2.jpg "Common Courtesy")
+![Common Courtesy](/images/common-cubed-2.jpg "Common Courtesy")
 
 Another guest started to clap and said something to the affect of, "Good job!" Well, that didn't really help anyone, now did it. As this story is about Common Courtesy, it is fortunate for the guest who's belongings were dispersed everywhere that there was a humble servant nearby.
 
@@ -44,7 +45,7 @@ During this journey, I came across all sorts of personality types. Some that cam
 
 One of the things I always did my best to do was look directly at the person speaking as to convey I was listening to what they were saying. I find it quite important for the sake of good communication to make eye contact. Sometimes, this even meant turning around in my cubical so I could face the person coming to talk to me.
 
-![Common Decency](/assets/img/collections/posts/common-cubed/common-cubed-3.jpg "Common Decency")
+![Common Decency](/images/common-cubed-3.jpg "Common Decency")
 
 Unfortunately, this was not always reciprocated. In one case, I had a colleague who not only did not ever look me in the eye, they wouldn't even turn around in their cubical when I came to talk to them.
 
@@ -64,7 +65,7 @@ All of these commonalities have one thing, well, in common. **L. O. V. E.** Havi
 
 "**E**" is for **EVERYONE**.
 
-![L. O. V. E.](/assets/img/collections/posts/common-cubed/common-cubed-4.jpg "L. O. V. E.")
+![L. O. V. E.](/images/common-cubed-4.jpg "L. O. V. E.")
 
 In the case of Commonsense, loving others can lead to understanding how anything works. Doing something incorrectly over and over without trying to seek understanding can lead to selfishness, or even pride, to prevent me from making the commonsense decisions in life.
 
