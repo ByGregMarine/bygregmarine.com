@@ -2,6 +2,10 @@
 title: Common Cubed
 date: 2022-10-05T00:45:38.187Z
 featured_image: /images/common-cubed-4.jpg
+tags:
+  - Lifestyle
+  - Love
+  - Lessons
 ---
 Over the years I have learned what is and isn't important in my life. With a global pandemic that hit home personally, as well as some new career moves I did not expect, the early 2k-20‘s were a great reminder of what I should make my priorities. For the best way to be able to focus on those important priorities, I look to Commonsense, Common Courtesy, and Common Decency. The "Common Cubed" always leads me to the inevitability of discovering the root of all things important.
 
@@ -25,7 +29,7 @@ When I go through a traffic circle, I know how to pace myself in such a way I wo
 
 # Common Courtesy
 
-Throughout the 80's, my family took vacations at the Walt Disney World Resort. In the 90's, my siblings and I had the opportunity to perform in show choirs at the American Pavilion in EPCOT. Although each of us had gone other times with our own families, we would not all go again as a whole until 2011.
+Throughout the 80's, my family took vacations to the Walt Disney World Resort. In the 90's, my siblings and I had the opportunity to perform in show choirs at the American Pavilion in EPCOT. Although each of us had gone other times with our own families, we would not all go again as a whole until 2011.
 
 There were 15 of us who went on that trip and we stayed in a total of 4 rooms split by each family between my parents, grandparents, and siblings. [Disney's Caribbean Beach Resort](https://disneyworld.disney.go.com/resorts/caribbean-beach-resort/) was chosen for our stay and all of the rooms were one after the other.
 
@@ -33,13 +37,13 @@ Upon arriving at the resort hotel, we had to go through the check-in process. As
 
 ![Common Courtesy](/images/common-cubed-2.jpg "Common Courtesy")
 
-Another guest started to clap and said something to the affect of, "Good job!" Well, that didn't really help anyone, now did it. As this story is about Common Courtesy, it is fortunate for the guest who's belongings were dispersed everywhere that there was a humble servant nearby.
+Another guest started to clap and said something to the affect of, "Good job!" in a sarcastic tone. Well, that didn't really help anyone, now did it. As this story is about Common Courtesy, it is fortunate for the guest who's belongings were dispersed everywhere that there was a humble servant nearby.
 
 A third guest quickly sprung to action and started helping to pick up the debris field of clothing. Within a short time, the embarrassed guest was not nearly as such, the clapping guest was now the embarrassed one, and the good Samaritan had shown a great deal of Common Courtesy.
 
 # Common Decency
 
-I have had a career that has spanned over two decades. In fact, it is well into the halfway point of the third decade. I have worked for many companies in that time and I've gone from quite the junior software developer all the way up to the Chief Technology Officer, and now freelancer.
+I have had a career that has spanned over two decades. In fact, it is well into the halfway point of the third decade. I have worked for many companies in that time and I've gone from quite the junior software developer all the way up to the Chief Technology Officer.
 
 During this journey, I came across all sorts of personality types. Some that came across as sweet. Some, not so sweet. I do my best to assume noble intent in all interactions I have with other people. However, sometimes, it is obvious there was no nobility intended by the other person.
 
@@ -55,7 +59,7 @@ More often than not, this person would not give me the Common Decency to acknowl
 
 Now that I have given examples of Commonsense, Common Courtesy, and Common Decency, you might be wondering why the lamentation? Well, I do have a point here. And I am going to try to take my own advice.
 
-All of these commonalities have one thing, well, in common. **L. O. V. E.** Having love for others can truly make all of these easy to achieve. Putting others before myself will make a difference here.
+All of these commonalities have one thing, well, in common. **L. O. V. E.** Having love for others can truly make all of these easy to achieve. Putting others before myself will make all the difference.
 
 "**L**" is for the way I **LOOK** at everyone
 
