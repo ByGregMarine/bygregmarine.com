@@ -9,7 +9,7 @@ Over the years I have learned what is and isn't important in my life. With a glo
 
 # Commonsense
 
-I have been driving for nearly 30 years. I'm far from a great driver. But I can hold my own. I've owned cars ranging from a 1986 Ford Aerostar to a Chevy Cruze. Now I own a Honda Odyssey. It is a smooth ride and a great joy to drive.
+I have been driving for nearly 30 years. I'm far from a great driver. But I can hold my own. I've owned cars ranging from a 1986 Ford Aerostar to a Honda Accord.
 
 For the majority of my time in the driver's seat, intersections have been controlled by stop signs, traffic signals, or yield signs. It was simple. You just did what the sign or signal told you. No guess work. You really only needed to be sure you were clear to go before moving.
 
