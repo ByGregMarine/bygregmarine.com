@@ -8,6 +8,7 @@ tags:
   - Disney
   - Attractions
   - ThemeParks
+  - CarouselOfProgress
 ---
 My favorite attraction at the Walt Disney World Resort in Florida is the Carousel of Progress. It most certainly is not a thrill ride. Nor is it a ride from one of the Disney movies and one unlikely to become a movie. So, why would it be my favorite, and by far nonetheless? The answer may surprise some. For fans of Walt Disney, the answer will no doubt make perfect sense.
 
@@ -19,21 +20,19 @@ WED Enterprises created four shows for the 1964 World's Fair in New York. Walt D
 
 ## [It's A Small World](https://disneyworld.disney.go.com/attractions/magic-kingdom/its-a-small-world/)
 
-The first of the four shows was It's A Small World. This boat ride, debuting in the 1964 World's Fair, is now at five Disney parks worldwide. Its iconic song, not soon forgotten if you have ever heard it, was written by the Sherman Brothers. Several dancing dolls represent many of the countries from around the world. I still love to ride it when I go because of its connection to my childhood.
+The first of the four shows was It's A Small World. This boat ride, debuting in the 1964 World's Fair, is now at five Disney parks worldwide. Its iconic song, not soon forgotten if you have ever heard it, was written by the Sherman Brothers. Several dancing dolls represent many of the countries from around the world. I still love to ride it when I go because of its connection to my childhood. It isn’t the most popular ride. However, its nostalgic theme still pleases many guests, such as myself, even today.
 
 ![It's A Small World](/images/great-big-beautiful-tomorrow-1.jpg "It's A Small World")
 
 ## [Ford's Magic Skyway (PeopleMover)](https://disneyworld.disney.go.com/attractions/magic-kingdom/tomorrowland-transit-authority-peoplemover/)
 
-The second most popular exhibit of the fair was another WED Imagineering marvel, Ford's Magic Skyway. Although the world wasn't taken by storm with this engineering masterpiece, it did become what is now known as the PeopleMover ride system seen at Tomorrowland in Disneyland and the Magic Kingdom. At the World's Fair, audience members would move through scenes featuring life-sized Audio-Animatronics dinosaurs and cavemen. Now, guests are taken on a journey about the world of tomorrow.
-
-### *Image being replaced with new one after next trip*
+The second most popular exhibit of the fair was another WED Imagineering marvel, Ford's Magic Skyway. Although the world wasn't taken by storm with this engineering masterpiece, it did eventually become what is now known as the PeopleMover ride system seen at Tomorrowland in Disneyland and the Magic Kingdom. At the World's Fair, audience members would move through scenes featuring life-sized Audio-Animatronics dinosaurs and cavemen. Now, guests are taken on a journey about the world of tomorrow.
 
 ![PeopleMover](/images/great-big-beautiful-tomorrow-2.jpg "PeopleMover")
 
 ## [Great Moments with Mr Lincoln](https://disneyworld.disney.go.com/attractions/magic-kingdom/hall-of-presidents/)
 
-Four score, and seven years ago, a lifelike President Abraham Lincoln recited his famous speeches in Great Moments with Mr. Lincoln at the Illinois pavilion for the 1964 New York World's Fair. The innovations in how well he looked lifelike can still be seen today in the Hall of Presidents in the Magic Kingdom at the Walt Disney World Resort in Florida. As a patriot, I absolutely love this show to this day.
+Four score, and seven years ago, a lifelike President Abraham Lincoln recited his famous speeches in Great Moments with Mr. Lincoln at the Illinois pavilion for the 1964 New York World's Fair. The innovations in how well he looked lifelike can still be seen today in the Hall of Presidents in the Magic Kingdom at the Walt Disney World Resort in Florida. As a patriot, I absolutely love this show to this day. Although Mr. Lincoln does not go through the same script as he did in 1964, the Hall of Presidents attraction continues to inspire with updated speeches of the latest presidents as they are elected.
 
 ![President Lincoln](/images/great-big-beautiful-tomorrow-3.jpg "President Lincoln")
 
@@ -47,7 +46,7 @@ Which brings me to the fabulous show that takes you on a journey with an America
 
 Most of the year, Florida can be quite warm and humid. And that is putting it nicely. The benefit to the Walt Disney World Resort is that they can remain open year round. With the heat, I have heard many people like the Carousel of Progress due to the air conditioning. With it being a 20 minute show, they enjoy getting out of the heat for a while. That is not the case for this guy! For me, it takes me through time from the turn of the 20th century right into the 21st century.
 
-To this day, Walt Disney's Carousel of Progress holds the record of the longest-running stage show in the history of American Theater. It is one of the oldest attractions at the Magic Kingdom and is also the oldest attraction at the Walt Disney Resort that had been touch by Walt Disney himself.
+To this day, Walt Disney's Carousel of Progress holds the record for the longest-running stage show in the history of American Theater. It is one of the oldest attractions at the Magic Kingdom and is also the only attraction at the Walt Disney World Resort that had been touch by Walt Disney himself.
 
 ## Act 1
 
