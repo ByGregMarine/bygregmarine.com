@@ -14,7 +14,7 @@ For thousands of years, mankind has been contemplating and philosophizing, what 
 
 # Christianity 101
 
-In my article *[When to Give Up](/posts/when-to-give-up)*, I mentioned I was raised in the church. Among other things, I was taught it was important to pray to God concerning everything and meditate on the scriptures from the Christian Holy Bible. Prayer and meditation is a very personal experience that exists in several religions. And for very good reason. In most cases, these exercises will allow you to relax, recharge, and refocus on what matters most.
+In my article *[When to Give Up](/blog/when-to-give-up)*, I mentioned I was raised in the church. Among other things, I was taught it was important to pray to God concerning everything and meditate on the scriptures from the Christian Holy Bible. Prayer and meditation is a very personal experience that exists in several religions. And for very good reason. In most cases, these exercises will allow you to relax, recharge, and refocus on what matters most.
 
 In the case of Christianity, prayer is a communication channel to the Creator of all things. Growing up I believed that this dialog would include God answering my prayers in a way that would make sense to me. As I became a teenager, I quickly realized this was not the case. Most of the time, what I thought were answers from God would not make much sense at all. But I would always try to accept whatever form the answer would come in.
 
@@ -77,8 +77,6 @@ At the beginning of 2021, after a very long and traumatic 2020, I decided I woul
 Although I have been artistic all of my life, I recently have begun painting when I become anxious about something. I also paint when I feel inspired to do so. I just take to the canvas and brush when something is on my mind that I do not want to negatively impact my day. Because of my desktop Zen gardening, I decided the best size is a 4x4 inch canvas with miniature easels. This allows me to also display the paintings in my Zen garden from time to time. This form of art has been a great therapeutic tool for helping me find balance. Plus, it sure is a lot of fun!
 
 ![Photo]( "Photo")
-
-
 
 # Namaste Chakra
 
