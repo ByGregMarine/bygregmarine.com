@@ -2,7 +2,7 @@
 title: Art
 top_level: true
 date: ""
-featured_image: /images/hero_social.jpeg
+featured_image: /images/balance-07.jpg
 tags:
   - Art
 ---
