@@ -7,14 +7,12 @@
         
         <ContentRenderer :value="doc" class="px-4 md:mx-auto space-y-8 mb-8" />
 
-        <ContentRoll :posts="posts" />
+        <ContentRoll path="pages" :where="{ top_level: true }" :sort="{ title: 1 }" cta_text="Read" />
       </div>
     </ContentDoc>
   </div>
 </template>
 
 <script setup lang="ts">
-const posts = await queryContent('/photo').sort({ date: 1 }).find();
-
-const settings = await queryContent('/settings/photo').only(['_path', 'title', 'body']).findOne();
+const settings = await queryContent('/settings/pages').only(['_path', 'title', 'body']).findOne();
 </script>

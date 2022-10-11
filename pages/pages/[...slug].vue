@@ -28,13 +28,20 @@
       <Header :title="`${ settings.title }: ${ doc.title }`" />
 
       <div class="container px-4 md:mx-auto h-full max-h-screen overflow-y-auto pt-8 mb-16">
+        <div v-if="!doc.top_level" class="flex justify-center">
+          <div class="card w-full lg:w-1/2 shadow-xl mb-8">
+            <figure><img :src="doc.featured_image" :alt="doc.title" /></figure>
+          </div>
+        </div>
         <ContentRenderer :value="doc" class="space-y-8 mb-8" />
+
+        <ContentRoll v-if="doc.top_level" :path="doc._path" :where="{ top_level: false }" :sort="{ _path: 1 }" cta_text="Read More" />
       </div>
     </ContentDoc>
   </div>
 </template>
 
 <script setup lang="ts">
-const settings = await queryContent('/settings/photo').only(['_path', 'title', 'body']).findOne();
+const settings = await queryContent('/settings/pages').only(['_path', 'title', 'body']).findOne();
 const generalSettings = await queryContent('/settings/general').findOne();
 </script>

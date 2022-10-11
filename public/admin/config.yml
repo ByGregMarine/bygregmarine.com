@@ -1,6 +1,12 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
+  commit_messages:
+    create: "Creating {{collection}} “{{slug}}”"
+    update: "Updating {{collection}} “{{slug}}”"
+    delete: "Deleting {{collection}} “{{slug}}”"
+    uploadMedia: "[skip ci] Uploading “{{path}}”"
+    deleteMedia: "[skip ci] Deleting “{{path}}”"
 
 # Publish mode https://www.netlifycms.org/docs/configuration-options/#publish-mode
 publish_mode: editorial_workflow
@@ -45,32 +51,33 @@ collections:
           - { label: URL, name: url, widget: hidden, default: "/blog"}
           - { label: Body, name: body, widget: markdown }
 
-      - label: Art Gallery
-        name: art
+      - label: Gallery
+        name: gallery
         format: frontmatter
-        file: content/settings/art.md
+        file: content/settings/gallery.md
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Show in Menu, name: menu, widget: boolean, default: true }
           - { label: Show on Landing Page, name: landing, widget: boolean, default: true }
           - { label: Display Order, name: order, widget: number, value_type: int, min: 1, max: 10 }
-          - { label: URL, name: url, widget: hidden, default: "/art"}
+          - { label: URL, name: url, widget: hidden, default: "/gallery"}
           - { label: Body, name: body, widget: markdown }
 
-      - label: Photo Gallery
-        name: photo
+      - label: Pages
+        name: pages
         format: frontmatter
-        file: content/settings/photo.md
+        file: content/settings/pages.md
         fields:
           - { label: Title, name: title, widget: string }
           - { label: Show in Menu, name: menu, widget: boolean, default: true }
           - { label: Show on Landing Page, name: landing, widget: boolean, default: true }
           - { label: Display Order, name: order, widget: number, value_type: int, min: 1, max: 10 }
-          - { label: URL, name: url, widget: hidden, default: "/photo"}
+          - { label: URL, name: url, widget: hidden, default: "/pages"}
           - { label: Body, name: body, widget: markdown }
 
   - label: Blog
     name: blog
+    label_singular: 'Post'
     folder: content/blog
     format: frontmatter
     create: true
@@ -84,32 +91,40 @@ collections:
       - { label: Body, name: body, widget: markdown }
       - { label: Tags, name: tags, widget: list }
 
-  - label: Art Gallery
-    name: art
-    folder: content/art
+  - label: Gallery
+    name: gallery
+    label_singular: 'Entry'
+    folder: content/gallery
     format: frontmatter
     create: true
-    slug: '{{slug}}'
     editor:
       preview: false
+    nested:
+      depth: 100
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Publish Date, name: date, widget: datetime }
+      - { label: Is Top Level, name: top_level, widget: boolean, default: true, hint: 'If this should contain entries, mark it as top level (Example: Art would be top level. Whereas a painting is not.)' }
+      - { label: Publish Date, name: date, widget: datetime, required: false }
       - { label: Featured Image, name: featured_image, widget: image, required: false }
       - { label: Body, name: body, widget: markdown }
       - { label: Tags, name: tags, widget: list }
+    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: 'Separate paths with a forward slash "/" (Example: art/painting-1)' } }
 
-  - label: Photo Gallery
-    name: photo
-    folder: content/photo
+  - label: Pages
+    name: pages
+    label_singular: 'Page'
+    folder: content/pages
     format: frontmatter
     create: true
-    slug: '{{slug}}'
     editor:
       preview: false
+    nested:
+      depth: 100
     fields:
       - { label: Title, name: title, widget: string }
-      - { label: Publish Date, name: date, widget: datetime }
+      - { label: Is Top Level, name: top_level, widget: boolean, default: true, hint: 'If this should contain sub pages, mark it as top level (Example: A "Book" or an index of pages would be top level. Whereas a simple page is not.)' }
+      - { label: Publish Date, name: date, widget: datetime, required: false }
       - { label: Featured Image, name: featured_image, widget: image, required: false }
       - { label: Body, name: body, widget: markdown }
       - { label: Tags, name: tags, widget: list }
+    meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: 'Separate paths with a forward slash "/" (Example: mybook/page-1)' } }
