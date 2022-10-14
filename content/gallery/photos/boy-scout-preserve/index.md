@@ -2,7 +2,7 @@
 title: Boy Scout Preserve
 top_level: true
 date: 2022-10-14T20:46:35.024Z
-featured_image: /images/hero.jpeg
+featured_image: /images/boy-scout-preserve-dsc02724.jpeg
 tags:
   - Photography
   - Photo
