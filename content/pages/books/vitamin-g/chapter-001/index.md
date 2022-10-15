@@ -3,9 +3,11 @@ title: I Don’t WANT To
 top_level: false
 date: 2022-10-15T03:10:11.227Z
 tags:
+  - Book
   - VitaminG
   - Motivation
   - Motivational
+  - SocialMedia
 ---
 > *I have found that in order to do the things I want to do, I must also do a lot of things I don’t want to do. But knowing I will get to do the things I want to do, it makes it easier and more enjoyable to do the things I don’t.*
 
