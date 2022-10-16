@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Sometimes it is quite difficult to get started. Once I do get started, I roll down the mountain like an avalanche! Go out today and get that snowball effect going!
+> *Sometimes it is quite difficult to get started. Once I do get started, I roll down the mountain like an avalanche! Go out today and get that snowball effect going!*
