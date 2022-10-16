@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Surprises are often around the corner. It could be a new career opporunity. It could be meeting the love of your life. Perhaps a great surprise awaits you in the near future!
+> *Surprises are often around the corner. It could be a new career opporunity. It could be meeting the love of your life. Perhaps a great surprise awaits you in the near future!*
