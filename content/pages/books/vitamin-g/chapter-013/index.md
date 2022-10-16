@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Accomplishments and success never come from laziness. Hard work almost always pays off!
+> *Accomplishments and success never come from laziness. Hard work almost always pays off!*
