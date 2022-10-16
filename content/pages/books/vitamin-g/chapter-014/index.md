@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> If you refuse to accept anything but the best, you very often get it.
+> *If you refuse to accept anything but the best, you very often get it.*
