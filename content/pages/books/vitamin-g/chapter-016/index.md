@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Inspiration comes in many forms. From the tiniest things to the big picture things of life. I find the greatest inspiration from what I am able to do for others.
+> *Inspiration comes in many forms. From the tiniest things to the big picture things of life. I find the greatest inspiration from what I am able to do for others.*
