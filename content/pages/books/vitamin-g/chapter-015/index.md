@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> I love where I am from. I love where I am going. But now is the best place to be!
+> *I love where I am from. I love where I am going. But now is the best place to be!*
