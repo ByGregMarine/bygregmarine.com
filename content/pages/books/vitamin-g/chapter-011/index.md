@@ -1,5 +1,5 @@
 ---
-title: Seize the Day
+title: Just Around the Corner
 top_level: false
 date: 2022-10-16T14:37:08.162Z
 tags:
