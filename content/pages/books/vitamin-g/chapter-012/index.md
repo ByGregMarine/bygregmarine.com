@@ -9,4 +9,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Today is yesterday's tomorrow. The hopes we had are now joys. And those joys will be the fond memories of the future.
+> *Today is yesterday's tomorrow. The hopes we had are now joys. And those joys will be the fond memories of the future.*
