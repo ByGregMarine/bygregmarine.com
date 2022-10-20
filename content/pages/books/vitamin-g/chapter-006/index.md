@@ -2,7 +2,7 @@
 title: Failure is the Key to Success
 top_level: false
 date: 2022-10-09T16:12:03.531Z
-featured_image: /images/dsc03391.jpeg
+featured_image: ""
 tags:
   - Book
   - VitaminG
