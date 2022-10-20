@@ -1,5 +1,5 @@
 ---
-title: Needs title
+title: Work Hard, Relax Hard
 top_level: false
 date: 2022-10-20T12:11:48.583Z
 tags:
