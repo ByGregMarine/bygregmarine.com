@@ -9,7 +9,7 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> *Never mind worrying about what is in store for tomorrow...today is a perfect day to seize!*
+> Never mind worrying about what is in store for tomorrow...today is a perfect day to seize!
 
 I often look back on my life and ponder what sort of life I would have now if certain events of my past had turned out differently. Back in the day, my life was recorded on what was known as VHS tapes. Then it became digital tapes which did not really have a any other way of playing than from the camera it was recorded from. Now, photos and videos are taken from what we call mobile phones.
 
