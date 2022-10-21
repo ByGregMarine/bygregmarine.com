@@ -10,3 +10,5 @@ tags:
   - SocialMedia
 ---
 > *Perspective is everything! How we look at things will completely shape how we perceive and react to the environment around us. Even when we look at the same thing at the same angle, we have new eyes each time and new experiences to shape the way we think about everything!*
+
+*Have you ever had a “favorite spot?” It could be a favorite place to eat or a special vacation location you visit each year.*
