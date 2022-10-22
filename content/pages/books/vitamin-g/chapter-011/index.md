@@ -14,3 +14,7 @@ tags:
 “Pocahontas” the 1995 Disney animated film, includes the musical masterpiece ”Just around the River Bend.” In this musical enchantment, Pocahontas sings of what is around the river’s bend.
 
 I have been around for decades. You may have been around for a few or many yourself. As someone who has been around for more than four decades, I have learned many things are just around the corner.
+
+Career opportunities 
+
+Personal opportunities
