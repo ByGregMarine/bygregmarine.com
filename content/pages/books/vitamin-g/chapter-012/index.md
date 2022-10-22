@@ -10,3 +10,9 @@ tags:
   - SocialMedia
 ---
 > *I love where I am from. I love where I am going. But now is the best place to be!*
+
+All of the awesomeness of my past…
+
+All of the awesomeness of my present…
+
+All of the hope of my future…
