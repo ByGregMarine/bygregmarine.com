@@ -18,3 +18,5 @@ I have been around for decades. You may have been around for a few or many yours
 Career opportunities 
 
 Personal opportunities
+
+Rivers as seen from flights I have taken
