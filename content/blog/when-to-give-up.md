@@ -1,6 +1,7 @@
 ---
 title: When to Give Up
 date: 2022-09-22T23:21:54.489Z
+published: true
 featured_image: /images/when-to-give-up-1.jpg
 tags:
   - Motivation

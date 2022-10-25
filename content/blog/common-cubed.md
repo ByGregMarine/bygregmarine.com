@@ -1,6 +1,7 @@
 ---
 title: Common Cubed
 date: 2022-10-05T00:45:38.187Z
+published: true
 featured_image: /images/common-cubed-4.jpg
 tags:
   - Lifestyle

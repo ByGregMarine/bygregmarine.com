@@ -1,6 +1,7 @@
 ---
 title: Before and After
 date: 2022-09-23T00:34:42.994Z
+published: true
 featured_image: /images/before-and-after-5.jpg
 tags:
   - Lifestyle
