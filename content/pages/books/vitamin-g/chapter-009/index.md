@@ -2,6 +2,7 @@
 title: Try Something New
 top_level: false
 date: 2022-10-15T12:37:17.500Z
+published: true
 tags:
   - Book
   - VitaminG
