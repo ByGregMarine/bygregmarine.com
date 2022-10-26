@@ -2,6 +2,7 @@
 title: Photography
 top_level: true
 date: 2022-10-11T00:10:11.969Z
+published: true
 featured_image: /images/hero.jpeg
 tags:
   - Photography

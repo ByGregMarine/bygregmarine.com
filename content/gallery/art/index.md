@@ -2,6 +2,7 @@
 title: Art
 top_level: true
 date: ""
+published: true
 featured_image: /images/balance-07.jpg
 tags:
   - Art
