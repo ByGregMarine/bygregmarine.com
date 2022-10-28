@@ -24,4 +24,6 @@ So, even if they truly love their job, the mere fact that one needs to work ofte
 
 I do love my work. By trade, I am a software engineer and get to do amazing things and work with some of the greatest technologies. However, one of my motivations to do work for my job is the income potential. And that income goes a long way to provide for my and my loved one’s needs. Food is a wonderful thing to have plenty of and being able to experience places away from home are pretty good reasons to do a few things I do not want to do as well.
 
-\[work on another example…such as taking care of the house]
+Another example of needing to do something I don’t really want to do all the time is doing housework. I really love where I live. And it is great to keep the place looking really nice. But it takes a lot of work to keep it just the way I like it. Sweeping the floor and cleaning counter services can be quite the chore.
+
+I was taught from a young age how to keep the home clean. One of my main chores was to vacuum the floors and wash the dishes. I rarely had to do something like clean the toilet or sinks and shower. As an adult, it is my responsibility to do all of the chores.
