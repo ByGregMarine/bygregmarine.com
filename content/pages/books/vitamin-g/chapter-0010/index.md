@@ -10,4 +10,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> *Some people leave fingerprints on our hearts because they have touched our hearts.*
+> Some people leave fingerprints on our hearts. They have touched us in such a way that they have left a lasting impression on our lives. A parent, friend, teacher, or a random stranger. Cherish their fingerprints on your heart today. Even if they are gone, they are still in you.
