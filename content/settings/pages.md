@@ -6,4 +6,4 @@ toc_style: List
 order: 3
 url: /pages
 ---
-This is a collection of my books.
+Some of what I have written cannot be categorized as simply a blog post. When inspiration strikes and blossoms, a book is born.
