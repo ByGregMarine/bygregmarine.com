@@ -10,9 +10,6 @@ tags:
   - Photos
   - BoyScoutPreserve
   - NewPortRichey
-  - DragonFly
-  - Wildlife
-  - Insect
-  - Insects
+  - Stump
 ---
 Grassy Stump
