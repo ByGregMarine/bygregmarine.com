@@ -1,9 +1,9 @@
 ---
-title: Dragon Fly (dsc02724)
+title: Stump 3 (dsc02703)
 top_level: false
 date: 2022-10-14T21:10:22.779Z
 published: true
-featured_image: /images/boy-scout-preserve-dsc02724.jpeg
+featured_image: /images/boy-scout-preserve-dsc02703.jpeg
 tags:
   - Photography
   - Photo
@@ -11,9 +11,5 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
-  - DragonFly
-  - Wildlife
-  - Insect
-  - Insects
 ---
-Dragon Fly
+Stump 3
