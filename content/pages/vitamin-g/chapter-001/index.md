@@ -18,4 +18,4 @@ The simple truth is, I am more like my son in this area than I really care to ad
 
 However, I can with full confidence say that it all does become well worth it when it leads to my being able to do those life fulfilling activities I really do want to do. It could be something as simple as having food to eat. Or it could be something such as enjoying a fun hobby. How does a nice vacation sound? All of those things are worth almost anything I do that I don’t want to.
 
-Going to work, cleaning my home, paying taxes, and various other tasks I must do, I’ll gladly do. \[expand on that]
+Going to work, cleaning my home, paying taxes, and various other tasks I must do, I’ll gladly do. My attitude towards what I MUST do will directly affect all that I WANT to do. Appreciating that I can do what it is I truly want to do in this life, I can begin to appreciate all that I need to do in order to make this all happen.
