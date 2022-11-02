@@ -10,4 +10,4 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> *Grief is a huge part of being alive. Whether it is over the loss of a loved one, a beloved pet, or an important job, we all experience grief in our lifetime. It is important to allow ourselves to grieve. Healing begins when we are open to the process.*
+> Grief is a huge part of being alive. Whether it is over the loss of a loved one, a beloved pet, or an important job, we all experience grief in our lifetime. It is important to allow ourselves to grieve. Healing begins when we are open to the process.
