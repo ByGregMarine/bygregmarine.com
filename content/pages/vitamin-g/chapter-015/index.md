@@ -2,7 +2,6 @@
 title: What Goes Around
 top_level: false
 date: 2022-10-15T12:16:56.880Z
-published: true
 tags:
   - Book
   - VitaminG
