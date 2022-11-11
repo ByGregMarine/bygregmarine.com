@@ -3,6 +3,7 @@ title: Ch. 001 - I Don’t WANT To
 top_level: false
 date: 2022-10-15T03:10:11.227Z
 published: true
+featured_image: /images/the-quarry-disc-golf-course-dsc00445.jpg
 tags:
   - Book
   - VitaminG
