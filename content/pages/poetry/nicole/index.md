@@ -3,6 +3,7 @@ title: Nicole
 top_level: false
 date: 2022-11-10T07:52:11.227Z
 published: true
+featured_image: /images/nicole.jpeg
 tags:
   - Poem
   - Nicole
