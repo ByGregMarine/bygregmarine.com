@@ -11,5 +11,6 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
+  - Stump
 ---
 Anyone can look at a stump from above, as they walk over or by it, and see that a tree once stood there. If you get down to where the crawling creatures walk, you no longer see a stump. You see a great and beautiful thing.

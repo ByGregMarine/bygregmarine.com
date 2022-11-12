@@ -11,5 +11,6 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
+  - Stump
 ---
 Here is another unique and beautiful perspective on tree that once was. This stump seems to represent multiple trees grown in close enough proximity that they became one beautiful structure.
