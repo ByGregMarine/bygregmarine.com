@@ -1,5 +1,5 @@
 ---
-title: Stump 3 (dsc02703)
+title: Glasswort (dsc02703)
 top_level: false
 date: 2022-10-14T21:10:22.779Z
 published: true
@@ -11,5 +11,6 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
+  - Stump
 ---
-Stump 3
+Even when something has passed away, new life can be found growing out from the old. This [glasswort](https://en.wikipedia.org/wiki/Salicornia_europaea) has given the dead stump from a previous tree new life and beauty.
