@@ -1,7 +1,9 @@
 ---
-title: Chase Your Passions
+title: Ch. 002 - Chase Your Passions
 top_level: false
 date: 2022-10-15T12:30:32.453Z
+published: true
+featured_image: /images/circle-b-bar-reserve-dsc03618.jpeg
 tags:
   - Book
   - VitaminG
