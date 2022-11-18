@@ -1,7 +1,7 @@
 ---
-title: Work Hard, Relax Hard
+title: Chase Your Passions
 top_level: false
-date: 2022-10-20T12:11:48.583Z
+date: 2022-10-15T12:30:32.453Z
 tags:
   - Book
   - VitaminG
@@ -9,12 +9,16 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Working hard is important when the job needs done. But what does hard work look like? Today, it might be crushing that task list. But tomorrow, it might just be relaxing to prepare for the next busy day. Working hard does not mean crushing it everyday. Be sure to relax when working hard! Otherwise you might burn out.
+> Passions come in many shapes and sizes. It can be related to the work one does, or for whom they work to provide for. Passion can even be just for fun! Regardless of what your passion is, or the reasons you have such passion, embrace it today! Chase after your passions. It will make you much happier!
 
-I’ve been working for money for about three decades now. And of those three decades, most of the years it has been as a software professional. \[talk about hard work]
+I have been around long enough to have had several passions over the years. Some have come and gone while others have stuck around. Writing, for example, has always been a passion of mine. Whereas key chain collecting, while it was a serious hobby for years, has become something I no longer go out of my way to do.
 
-\[talk about resting]
+There are many definitions for the word passion. In this context, I am referring to “an object of desire or deep interest.” Having something that draws out our deepest interests and desires can motivate us to achieve a kind of happiness we all hope to obtain. For the most part, we tend to follow our passions in hobby form. However, one can also follow a passion through their job.
 
-\[talk about balance]
+An important passion I have is encouraging and motivating others. I can use my writing skills to write this book, for example, taking my own experiences to encourage you on your own path. In fact, since you are reading this now, I feel I have achieved the chasing of one of my passions!
 
-\[wrap it up]
+It is important to find what drives you. One way you might achieve this is by trying something new or having a new experience. This is not always an easy thing to do. So, start small and expand as you feel comfortable. What sort of new interests might stimulate your brain? Is there a new sport or hobby you've been meaning to check out? What are your friends and family doing that you have never tried before?
+
+To help maintain happiness, I have found it important to have multiple passions. Also, combining passions has had a lasting effect on me. I love to hike. I love photography. So, as you would imagine, I snap photos when I go on hikes.
+
+Whatever your passions are, chase after them and find what makes you happy. Even if your passions change over time, keep at it. Passions make all of the struggles of this life worth the effort you put in.
