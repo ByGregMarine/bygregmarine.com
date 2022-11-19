@@ -1,5 +1,5 @@
 ---
-title: Ch. 001 - I Don’t WANT To
+title: Ch. 01 - I Don’t WANT To
 top_level: false
 date: 2022-10-15T03:10:11.227Z
 published: true
