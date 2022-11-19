@@ -1,5 +1,5 @@
 ---
-title: Ch. 03 - Perspective is Everything
+title: Perspective is Everything
 top_level: false
 date: 2022-10-15T12:43:44.036Z
 tags:
