@@ -23,4 +23,4 @@ I believe photographs are one of the best examples of perspective. They capture 
 
 Whether it be our favorite spot, or simply a photograph, how we look at something can change over time. I personally believe that is one of the most beautiful things about life. In fact, even the darkest of memories can be changed for the better over time. If we take all that we have learned over the years, and apply it as lessons learned, almost anything can be changed for the better.
 
-The key, I feel, is to find the positive in everything. With the exception of outside forces beyond our own control, almost anything within our own control can be twisted back into something good. That’s where perspective comes in handy. We just need to seek the perspective that gives us the hope we desire.
+The key, I feel, is to find the positive in everything. With the exception of outside forces beyond our own control, almost anything within our own control can be twisted back into something good. That’s where perspective comes in handy. We just need to seek the perspective that gives us the best of everything.
