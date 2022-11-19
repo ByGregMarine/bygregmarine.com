@@ -10,7 +10,7 @@ tags:
   - Motivation
   - VitaminG
 ---
-A collection of motivational statements originally posted on social media. Now in a single convenient book to be used as a daily motivational tool.
+A collection of motivational statements originally posted on social media. Now in a single convenient book.
 
 
 
