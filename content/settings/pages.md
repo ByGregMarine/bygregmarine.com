@@ -1,5 +1,5 @@
 ---
-title: Pages
+title: Books
 menu: true
 landing: true
 toc_style: List
