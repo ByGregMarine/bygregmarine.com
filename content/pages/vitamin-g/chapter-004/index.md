@@ -2,6 +2,7 @@
 title: Try Something New
 top_level: false
 date: 2022-10-15T12:37:17.500Z
+featured_image: /images/jay-b-starkey-wilderness-park-dsc00953.jpeg
 tags:
   - Book
   - VitaminG
