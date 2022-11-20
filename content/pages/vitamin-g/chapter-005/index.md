@@ -9,7 +9,7 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> *Although it is nice to have others believe in you…you will become great if you believe in yourself.*
+> Although it is nice to have others believe in you…you will become great if you believe in yourself.
 
 One of the highlights of my childhood was when I would be involved in a solo or group activity, my parents would be in the audience or spectator stands. As a child, it was exciting to be doing something that I knew would make them proud. Every church play or musical, every ballgame, every show choir performance, one or both of my parents would be there to support and cheer me on.
 
