@@ -3,7 +3,7 @@ title: Vitamin G
 top_level: true
 date: 2022-10-09T16:10:14.647Z
 published: true
-featured_image: /images/when-to-give-up-4.jpg
+featured_image: /images/brasher-dsc02584.jpeg
 tags:
   - Book
   - Books
