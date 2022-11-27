@@ -2,6 +2,7 @@
 title: Believe in Yourself
 top_level: false
 date: 2022-10-15T12:33:08.613Z
+featured_image: /images/werner-boyce-salt-springs-state-park-img_5039.jpeg
 tags:
   - Book
   - VitaminG
