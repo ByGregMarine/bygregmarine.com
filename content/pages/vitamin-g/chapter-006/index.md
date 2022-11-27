@@ -2,6 +2,7 @@
 title: Believe in Others
 top_level: false
 date: 2022-10-15T12:35:22.239Z
+featured_image: /images/circle-b-bar-reserve-dsc03883.jpeg
 tags:
   - Book
   - VitaminG
