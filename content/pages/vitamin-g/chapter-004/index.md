@@ -1,7 +1,8 @@
 ---
 title: Try Something New
 top_level: false
-date: 2022-10-15T12:37:17.500Z
+date: 2022-12-05T17:22:24.169Z
+published: true
 featured_image: /images/jay-b-starkey-wilderness-park-dsc00953.jpeg
 tags:
   - Book
