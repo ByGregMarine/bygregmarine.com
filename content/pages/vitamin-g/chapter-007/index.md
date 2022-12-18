@@ -11,7 +11,7 @@ tags:
 ---
 > *When it rains upstream, it can flood downstream. Likewise, what I do affects those around me down the road. It is important to me to do the best I can today to affect them in a positive way. I want the flood to be that of joy and not of sorrow.*
 
-Through a series of unfortunate events, I learned quite a while ago how my own actions effect everyone around me. And years later, I found that how it effected them in turn had an impact on everyone else around them. As of this writing, I’m in my 40s. So, as an adult, I have had an impact on more people than I can even imagine. There have now been more decades in my adult years than my childhood. It can be an overwhelming thought that my actions an consequences have effected so many.
+Through a series of unfortunate events, I learned quite a while ago how my own actions effect everyone around me. And years later, I found that how it effected them in turn had an impact on everyone else around them. As of this writing, I’m in my 40s. So, as an adult, I have had an impact on more people than I can even imagine. There have now been more decades in my adult years than my childhood. It can be an overwhelming thought that my actions and consequences have effected so many.
 
 I once worked on a contract for a prominent North American transmission manufacturer who supplied all of the transmissions for every school bus in the United States of America. This same company also supplied transmissions for tanks for the USA military. While I worked on that contract, I soon realized the work I was doing was actually affecting everyone on the planet in some way.
 
