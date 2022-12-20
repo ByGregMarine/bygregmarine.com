@@ -2,6 +2,7 @@
 title: Keep Moving Forward
 top_level: false
 date: 2022-10-15T12:13:11.852Z
+featured_image: /images/honeymoon-island-state-park-dsc05732.jpeg
 tags:
   - Book
   - VitaminG
