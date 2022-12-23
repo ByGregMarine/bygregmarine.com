@@ -17,7 +17,7 @@ When I was a child, my parents would often get me involved in church plays and m
 
 I completely understand what they must have felt at the time. As a parent myself, I love to support my son in his various activities. And as he grows older, I am so proud of the man he is becoming. I truly believe in him and cannot wait to see the world he builds around him through the years to come.
 
-However, a parent’s job does not simply end by supporting their children. Something my own parents taught me was how to support myself. This process began as I learnt the basics of self-care, such as brushing my teeth and taking showers. It then went on to being able to do my own laundry, learning how to cook, and setting a budget.
+However, a parent’s job does not simply end by supporting their children. Something my own parents taught me was how to support myself. This process began as I learned the basics of self-care, such as brushing my teeth and taking showers. It then went on to being able to do my own laundry, learning how to cook, and setting a budget.
 
 The most valuable lesson they were teaching me when they would enroll me into such things as sports, or when they taught me how to do laundry and cook, was to become responsible for myself and what I would become. And their support by being present in the audience or at home was to show how proud they were of the effort I was putting into those activities. As a result, I began to believe that if I do my best I should be proud of whatever the outcome will be.
 
