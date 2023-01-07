@@ -11,7 +11,7 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> *If you look back, you'll soon be going that way. Learn from the past, but keep moving forward!*
+> If you look back, you'll soon be going that way. Learn from the past, but keep moving forward!
 
 I’m going to be completely honest with you. I have spent quite a bit of my life dwelling on my past. Many of the moments of my life are worth spending some time meditating over. However, being human, it is in my nature to actually focus on those moments which are not worth giving time to. Yes, I should definitely be learning from all of the bad times. But why allow them to anchor me to the past?
 
