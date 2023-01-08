@@ -2,6 +2,7 @@
 title: Just Around the Corner
 top_level: false
 date: 2022-10-16T14:37:08.162Z
+featured_image: /images/from-the-air-img_6916.jpeg
 tags:
   - Book
   - VitaminG
