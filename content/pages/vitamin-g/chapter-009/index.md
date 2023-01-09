@@ -12,7 +12,7 @@ tags:
 ---
 > Surprises are often around the corner. It could be a new career opportunity. It could be meeting the love of your life. Perhaps a great surprise awaits you in the near future!
 
-“Pocahontas,” the 1995 Disney animated film, includes the musical masterpiece ”Just around the River Bend.” In this musical enchantment, Pocahontas sings of what is around the river’s bend. The song speaks of how things are always changing and there is a struggle in the decisions we make. The fluid motion of life can be an uncomfortable journey that can leave us a bit uncertain. And if we choose to stay safe by not going around the bend, we lose our chance of ever knowing what is up ahead.
+“Pocahontas,” the 1995 Disney animated film, includes the musical masterpiece ”Just around the Riverbend.” In this musical enchantment, Pocahontas sings of what is around the river’s bend. The song speaks of how things are always changing and there is a struggle in the decisions we make. The fluid motion of life can be an uncomfortable journey that can leave us a bit uncertain. And if we choose to stay safe by not going around the bend, we lose our chance of ever knowing what is up ahead.
 
 I have been around for decades. You may have been around for a few or many yourself. As someone who has been around for more than four decades, I have learned many things are just around the corner. However, there is a struggle in the waiting to see what there is around that very corner. The constant changes in our world, and the many setbacks we face daily, can make us a bit apprehensive to even step forward and look to see what will become.
 
