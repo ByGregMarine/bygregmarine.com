@@ -19,3 +19,5 @@ I’m not a therapist
 I’m not a motivational speaker
 
 Although this book is technically in the self-help genre, some of the advice contained in these pages will encourage you to find communal help along the way. I’m just a bald guy trying to make it through life with my head above water. And these pages are pretty much how I do it.
+
+There is no right or wrong way of coping with life…as long as you are coping
