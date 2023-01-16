@@ -8,7 +8,6 @@ tags:
   - Art
   - Painting
   - Seedling
-  - ""
 ---
 # Seedling
 
