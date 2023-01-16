@@ -20,8 +20,6 @@ tags:
 
 My favorite pavilion at EPCOT in the Walt Disney World Resort is by far the Japan Pavilion. They have a Torii Gate there where you can see Spaceship Earth (the big ball). I love this scene and just had to paint it.
 
+### The Torii Gate painting being held up in front of the reference photo
 
-
-### The Torii Gate painting being held up in front of the photo of the same
-
-![The Torii Gate painting being held up in front of the photo of the same](/images/gateway-to-the-future-img_0117.jpeg "The Torii Gate painting being held up in front of the photo of the same")
+![The Torii Gate painting being held up in front of the reference photo](/images/gateway-to-the-future-img_0117.jpeg "The Torii Gate painting being held up in front of the reference photo")
