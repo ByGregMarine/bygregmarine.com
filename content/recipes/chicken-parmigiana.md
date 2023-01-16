@@ -9,11 +9,8 @@ ingredients:
     note: I typically cut a chicken breast in half like I would when doing a
       butterfly cut; except all the way through. So 2 large chicken breasts is
       what I use.
-    unit: tsp(s)
   - ingredient: freshly ground salt and pepper to taste
     note: Does not need to be freshly ground. I just think it tastes better that way.
-    qty: "0"
-    unit: tsp(s)
   - qty: "2"
     unit: large
     ingredient: eggs
