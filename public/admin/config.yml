@@ -76,6 +76,18 @@ collections:
           - { label: URL, name: url, widget: hidden, default: "/pages"}
           - { label: Body, name: body, widget: markdown }
 
+      - label: Recipes
+        name: recipes
+        format: frontmatter
+        file: content/settings/recipes.md
+        fields:
+          - { label: Title, name: title, widget: string }
+          - { label: Show in Menu, name: menu, widget: boolean, default: true }
+          - { label: Show on Landing Page, name: landing, widget: boolean, default: true }
+          - { label: Display Order, name: order, widget: number, value_type: int, min: 1, max: 10 }
+          - { label: URL, name: url, widget: hidden, default: "/recipes"}
+          - { label: Body, name: body, widget: markdown }
+
   - label: Blog
     name: blog
     label_singular: 'Post'
@@ -132,3 +144,74 @@ collections:
       - { label: Body, name: body, widget: markdown }
       - { label: Tags, name: tags, widget: list }
     meta: { path: { widget: string, label: 'Path', index_file: 'index', hint: 'Separate paths with a forward slash "/" (Example: mybook/page-1)' } }
+
+  - label: Recipes
+    name: recipes
+    label_singular: 'Recipe'
+    folder: content/recipes
+    format: frontmatter
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: Title, name: title, widget: string }
+      - { label: Publish Date, name: date, widget: datetime, required: false }
+      - { label: Published, name: published, widget: boolean, required: false, default: false }
+      - { label: Featured Image, name: featured_image, widget: image, required: false }
+      - { label: Overview, name: body, widget: markdown }
+      - {
+          label: Ingredients,
+          name: ingredients,
+          widget: list,
+          summary: '{{qty}} {{unit}} {{ingredient}} ({{note}})',
+          fields:
+            [
+              { label: Quantity, name: qty, widget: string },
+              {
+                label: Unit of Measurement,
+                name: unit,
+                widget: select,
+                options:
+                  [
+                    "tsp(s)",
+                    "tbsp(s)",
+                    "oz(s)",
+                    "cup(s)",
+                    "pint(s)",
+                    "quart(s)",
+                    "gallon(S)",
+                    "slice(s)",
+                    "pound(s)",
+                    "gram(s)",
+                    "kilogram(s)",
+                    "small",
+                    "medium",
+                    "large",
+                    "xlarge",
+                    "clove(s)",
+                    "bag(s)",
+                    "box(es)",
+                    "jar(s)",
+                    "package(s)",
+                    "whole",
+                    "head(s)",
+                    "packet(s)",
+                  ]
+              },
+              { label: Ingredient, name: ingredient, widget: string },
+              { label: Note, name: note, widget: string, required: false },
+            ]
+        }
+      - {
+          label: Instructions,
+          name: instructions,
+          widget: list,
+          summary: '{{instruction}} ({{note}})',
+          fields:
+            [
+              { label: Instruction, name: instruction, widget: string },
+              { label: Note, name: note, widget: string, required: false },
+            ]
+        }
+      - { label: Notes, name: notes, widget: text, required: false }
+      - { label: Tags, name: tags, widget: list }
