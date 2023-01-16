@@ -47,5 +47,19 @@ ingredients:
     unit: oz(s)
     ingredient: pasta
     note: Optional. Spaghetti goes well. But any side works!
+notes: This serves 4, or 2 really hungry people. Substitute spaghetti for any
+  pasta type, or omit the pasta if you prefer the chicken parmesan by itself.
+  For a low carb alternative, you can substitute pork rinds for the crackers and
+  zucchini, or similar, noodles.
+tags:
+  - Italian
+  - Chicken
+  - ChickenParmigiana
+  - Foodie
+  - Recipe
+  - Comfort
+  - ComfortFood
+  - Favorite
+  - Favorites
 ---
 I use to judge a restaurant by its Chicken Parmigiana. In fact, there are a few places, none of which can I even recall their names now, that I have not been to since having a bad experience with this dish. As 2020 was "that" kind of year, I decided it was time to develop my own recipe of my favorite dish. This is that recipe! Once you've made it, feel free to judge my culinary skills!
