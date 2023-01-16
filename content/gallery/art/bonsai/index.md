@@ -4,6 +4,12 @@ top_level: true
 date: 2021-09-21T23:36:44.458Z
 published: true
 featured_image: /images/bonsai-img_0054.jpeg
+tags:
+  - Art
+  - Painting
+  - Bonsai
+  - Tree
+  - Imagination
 ---
 # Bonsai
 
