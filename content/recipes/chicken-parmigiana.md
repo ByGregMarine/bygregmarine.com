@@ -1,7 +1,7 @@
 ---
 title: Chicken Parmigiana
-date: 2023-01-16T15:02:26.302Z
-published: false
+date: 2020-12-27T15:02:26.302Z
+published: true
 featured_image: /images/img_0094.jpeg
 ingredients:
   - qty: "4"
@@ -47,6 +47,32 @@ ingredients:
     unit: oz(s)
     ingredient: pasta
     note: Optional. Spaghetti goes well. But any side works!
+instructions:
+  - instruction: Preheat oven to 450F
+  - instruction: Place the chicken between sheets of plastic wrap and pound them
+      until they are about 1/2 inch thick
+  - instruction: Season chicken with salt and pepper to taste
+  - instruction: Beat eggs in shallow bowl and set aside
+  - instruction: Mix cracker crumbs, grated parmesan, and Italian seasoning in
+      another bowl and set aside
+  - instruction: Dip chicken in eggs, then in cracker/parm/seasoning mix and set aside
+  - instruction: Preheat olive oil in large skillet over medium-high heat
+  - instruction: Cook chicken in olive oil for 1-2 minutes each side to crisp up the
+      breading
+  - instruction: Place chicken in baking dish and spoon some pasta sauce over each piece
+  - instruction: Bake for 15 to 20 minutes
+    note: Until internal temp reaches 165F
+  - instruction: While the chicken is baking, heat up remaining sauce and boil pasta
+    note: Optional if you are preparing pasta as a side
+  - instruction: Pull chicken out of the oven and turn broiler to high
+  - instruction: ayer each chicken breast with equal amounts of shredded mozzarella
+      and parmesan, parsley, and basil
+  - instruction: Sprinkle 2 tsp of grated parmesan on each chicken breast and
+      drizzle olive oil
+  - instruction: Broil chicken until cheese is bubbling and golden
+  - instruction: Serve each piece of chicken with a small pile of pasta with a
+      topping of sauce
+    note: Or other side, or no side at all! It's up to you!
 notes: This serves 4, or 2 really hungry people. Substitute spaghetti for any
   pasta type, or omit the pasta if you prefer the chicken parmesan by itself.
   For a low carb alternative, you can substitute pork rinds for the crackers and
