@@ -2,7 +2,7 @@
 title: Gateway to the Future
 top_level: false
 date: 2021-09-24T00:16:41.089Z
-published: false
+published: true
 featured_image: /images/gateway-to-the-future-img_0118.jpeg
 tags:
   - Art
