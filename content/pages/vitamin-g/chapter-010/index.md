@@ -15,4 +15,8 @@ Let's face it, competition can be a lot of fun. Everything from sports to the fi
 
 It seems to be human nature to compare ourselves to others. It may start with thoughts about how we want to be that other person. And it may end with us trying to be better than them in someway. This is definitely not restricted to competitive sports or the arts. Envy and jealousy can creep into any situation.
 
-I use to resent other's successes...now I celebrate them
+To be absolutely honest, I use to resent other's successes. There was a time in my life when I wanted to be more successful than someone else in those things I was most interested in. I would even go so far as to sabotage their efforts. I recall on instance where a good friend of mine was interested in being a part of a project I was working on for a Christian band. When this friend reached out to me, my response was, "You aren't Christian enough to be a part of this project."
+
+At the time, my pride was really getting in the way, not only for the project, but more importantly in the way I was building a wall between myself and this friend.
+
+...now I celebrate other's success
