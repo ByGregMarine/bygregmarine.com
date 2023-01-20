@@ -2,6 +2,7 @@
 title: Be Your Best
 top_level: false
 date: 2022-10-16T15:31:02.848Z
+featured_image: /images/honeymoon-island-state-park-dsc06002.jpeg
 tags:
   - Book
   - VitaminG
