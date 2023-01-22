@@ -19,14 +19,6 @@ tags:
 
 This is one of those, “Let me see if I can do this” sort of experiments. With my benign trimmer (always shaking), it can be difficult to work with small items. However, I was quite pleased with how this turned out.
 
-
-
-### Close up of Beach on Shell painting showing that it is smaller than my index finger
-
 ![Close up of Beach on Shell painting showing that it is smaller than my index finger](/images/beach-on-shell-img_0126.jpeg "Close up of Beach on Shell painting showing that it is smaller than my index finger")
-
-
-
-### Zoomed out view of Beach on Shell painting showing how small it is compared to my hand
 
 ![Zoomed out view of Beach on Shell painting showing how small it is compared to my hand](/images/beach-on-shell-img_0127.jpeg "Zoomed out view of Beach on Shell painting showing how small it is compared to my hand")
