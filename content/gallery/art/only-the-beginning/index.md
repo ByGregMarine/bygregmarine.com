@@ -4,6 +4,11 @@ top_level: false
 date: 2021-10-02T23:06:36.061Z
 published: true
 featured_image: /images/only-the-beginning-img_0339.jpeg
+tags:
+  - Art
+  - Painting
+  - OnlytheBeginning
+  - Abstract
 ---
 # Only the Beginning
 
