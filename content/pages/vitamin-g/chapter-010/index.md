@@ -1,7 +1,8 @@
 ---
-title: Be Your Best
+title: Be YOUR Best
 top_level: false
-date: 2022-10-16T15:31:02.848Z
+date: 2023-01-23T13:57:30.287Z
+published: true
 featured_image: /images/honeymoon-island-state-park-dsc06002.jpeg
 tags:
   - Book
