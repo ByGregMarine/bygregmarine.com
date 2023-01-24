@@ -1,7 +1,7 @@
 ---
 title: A Great and Beautiful Thing (dsc02685)
 top_level: false
-date: 2022-10-14T21:10:22.779Z
+date: 2022-07-08T21:30:22.779Z
 published: true
 featured_image: /images/boy-scout-preserve-dsc02685.jpeg
 tags:
