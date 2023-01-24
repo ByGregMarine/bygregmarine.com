@@ -1,7 +1,7 @@
 ---
 title: Glasswort (dsc02703)
 top_level: false
-date: 2022-10-14T21:10:22.779Z
+date: 2022-07-08T21:35:22.779Z
 published: true
 featured_image: /images/boy-scout-preserve-dsc02703.jpeg
 tags:
