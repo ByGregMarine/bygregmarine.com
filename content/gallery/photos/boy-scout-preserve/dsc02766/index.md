@@ -1,7 +1,7 @@
 ---
-title: Something (dsc02766)
+title: Spanish Moss (dsc02766)
 top_level: false
-date: 2022-10-14T21:10:22.779Z
+date: 2022-07-08T21:47:22.779Z
 published: true
 featured_image: /images/boy-scout-preserve-dsc02766.jpeg
 tags:
@@ -11,5 +11,6 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
+  - SpanishMoss
 ---
-Something
+It isn't difficult to see why I took this photograph! Isn't it beautiful?!?
