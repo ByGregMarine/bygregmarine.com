@@ -1,7 +1,7 @@
 ---
-title: Something (dsc02735)
+title: Sunshine through the Canopy (dsc02735)
 top_level: false
-date: 2022-10-14T21:10:22.779Z
+date: 2022-07-08T21:44:22.779Z
 published: true
 featured_image: /images/boy-scout-preserve-dsc02735.jpeg
 tags:
@@ -11,5 +11,11 @@ tags:
   - BoyScoutPreserve
   - NewPortRichey
   - Florida
+  - Sun
+  - Trees
+  - Palm
+  - PalmTree
+  - PalmTrees
+  - SpanishMoss
 ---
-Something
+As I looked up at the trees around me, I felt the warmth of the sun. These trees and Spanish Moss help provide not only shade, but also a beautiful glimpse of the sunshine.
