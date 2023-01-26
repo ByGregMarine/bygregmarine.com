@@ -19,8 +19,6 @@ tags:
 ---
 The first time I saw a Roseate Spoonbill I thought it was an American Flamingo. That was because it was already in flight and was too far away to see clearly. I capture this pair in flight and got a better look at them.
 
+![A pair of Roseate Spoonbills flying together near Mangrove trees (dsc01659)](/images/brasher-dsc01659.jpeg "A pair of Roseate Spoonbills flying together near Mangrove trees (dsc01659)")
 
-
-![A pair of Roseate Spoonbills flying together near Mangrove trees](/images/brasher-dsc01659.jpeg "A pair of Roseate Spoonbills flying together near Mangrove trees")
-
-![A pair of Roseate Spoonbills flying together near Mangrove trees](/images/brasher-dsc01664.jpeg "A pair of Roseate Spoonbills flying together near Mangrove trees")
+![A pair of Roseate Spoonbills flying together near Mangrove trees (dsc01664)](/images/brasher-dsc01664.jpeg "A pair of Roseate Spoonbills flying together near Mangrove trees (dsc01664)")
