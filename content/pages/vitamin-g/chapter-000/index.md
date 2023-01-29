@@ -10,7 +10,7 @@ tags:
   - Motivational
   - SocialMedia
 ---
-I started my motivational posts based on the concept of the fortune cookie. As I continued to evolve the concept, it grew into what is now known as “Vitamin G;” or tiny bits of motivational wisdom and encouragement from my own experiences.
+I started my motivational posts based on the concept of the fortune cookie. As I continued to evolve the concept, it grew into what is now known as “Vitamin G;” or tiny doses of a motivational vitamin (wisdom and encouragement) from my own experiences.
 
 In an effort to live on and with purpose, I began to document many of the thoughts that motivate me. It began on Twitter and became an important part of all the social media platforms I engage on. As my friends and followers began to respond to my encouragement, I soon realized the impact these statements were making on other people and not just on myself.
 
