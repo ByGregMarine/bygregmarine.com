@@ -10,6 +10,6 @@ tags:
   - Motivation
   - VitaminG
 ---
-A collection of motivational statements originally posted on social media. Now in a single convenient book.
+A weekly dose of motivation to encourage you to your best life.
 
 *Copyright 2023 Greg Marine*
