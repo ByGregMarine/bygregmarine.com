@@ -20,7 +20,7 @@ Please allow me to be absolutely clear. I’m not a therapist. This book should 
 
 This book should also not be considered a replacement for psychotherapy. If you suffer from chronic and extreme depression, or any other mental illness, please seek the necessary help you may need. Medical attention might be necessary and has been necessary in my own life. If you are having thoughts of self harm or the harm of others, please put this book down now and call your local emergency services (911 if you are in the USA).
 
-Something else I am not is a motivational speaker. Although I may, at times, motivate others to their best potential, I will never pretend to be an “everything is awesome” type person. Everything isn’t awesome. Let’s be real with each other. Life is not easy. What I talk about in this book was not easy to talk about. And it will be equally difficult to apply to your life.
+Something else I am not is a motivational speaker. Although I may, at times, motivate others to their best potential, I will never pretend to be an “everything is awesome” type person. Everything isn’t awesome. Let’s be real with each other. Life is not easy. What I talk about in this book was not easy to write about. And it will be equally difficult to apply to your life.
 
 Although this book is technically in the self-help genre, some of the advice contained in these pages will encourage you to find communal help along the way. I’m just a bald guy trying to make it through life with my head above water. And these pages are pretty much how I do it. This book is more about self care than help. Take good care of yourself, and get help from those you trust.
 
