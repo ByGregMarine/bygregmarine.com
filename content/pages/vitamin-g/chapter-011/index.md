@@ -2,6 +2,7 @@
 title: Be in the Now
 top_level: false
 date: 2023-01-30T15:17:33.182Z
+featured_image: /images/honeymoon-island-state-park-img_0274.jpeg
 tags:
   - Book
   - VitaminG
