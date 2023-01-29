@@ -3,6 +3,7 @@ title: Set Your Own Expectations
 top_level: false
 date: 2022-11-01T11:48:41.353Z
 published: false
+featured_image: /images/rusty-bellies-img_1735.jpeg
 tags:
   - Book
   - VitaminG
