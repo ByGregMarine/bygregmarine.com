@@ -11,22 +11,14 @@ tags:
 ---
 > I love where I am from. I love where I am going. But now is the best place to be!
 
-All of the alsomeness of my past…
-- Album producing
-- Disney-Like Fireworks shows
-- Good family life
-- Days at the lake
-- Igloos and snow forts in the winter
-- Tinkering (inventor's kit)
+Those of us who struggle with mental illness tend to focus on all of the negative experiences from our past. We often anchor our subconscious to those events that have had the most negative impact on our lives. It is also incredibly easy to fix our thought life on all of the bad stuff that has happened to us or the bad which we have caused ourselves. However, no matter how bad our lives have been, or how poor our perceptions of the events of our lives might be, we do know that some great things have happened to and for us as well.
 
-All of the alsome hope of my future…
-- Retirement
-- Art
-- Photography
-- Florida life?
-- The unknown future
+I was fortunate enough to grow up in a relatively amazing family. Sure, we had our share of problems like any family would have. But I would say I was more blessed than cursed with my family. I have fond memories at the lake where my grandparents used to live. And growing up in the midwest in the late 70's through the 80's, I had the great opportunity to build igloos and snow forts in the Winter. One of my fondest memories, however, was all the tinkering I used to do. I had this thing I called my "inventors box" that was full of broken toys and electronics. Ever now and then I would open up that box and create some new contraption to the amazement of my family. To this day they still talk about that time when I made a steering wheel and joystick for our video game system out of LEGO blocks and a couple of game controllers.
 
-All of the alsomeness of my present…
-- The past is gone and the future is not here yet
-- All we have is now
-- Learn from the past, apply what we have learned, prepare for the future
+Everything, good or bad, has set me up for a pretty bright future. All of the struggles have strengthened me and all of the successes have encouraged me along the way. Although I do not know what the future holds for me, I feel very strongly that it will include a peaceful retirement life in Florida. I can see myself spending days on end out in the lush nature capturing what I see in paintings and photographs. I can see myself having a weekly visit to the beach to swim in the gulf during the Spring through Autumn months and simply walking along the gently rolling surf in the Winter months. Although I do so of that even today, I'll have much more time to enjoy that lifestyle when I'm no longer working 40+ hours each week for an employer. By then, God Willing, I'll have both passive income and retirement benefits to live on so I won't need to work any longer.
+
+Although I have made a fair number of decisions that did not directly benefit my future, I can still say that most of my adulthood has been serving a means to an end. I'm not in denial about why I work. I do love my job and what I do for a living. But I really do not want to be doing it the rest of my life. I work today so that I do not need to tomorrow. I'm really looking forward to that time in my life. Forward thinking is an important part of planning ahead. As an example, I was once told to look ahead 15 feet ahead of you when I was mountain biking. What I did instead was fix my gaze at a tree I wanted to avoid. As you guess, I crashed into that tree. The same goes for planning my retirement. If I look at only what I need now, I'll crash.
+
+To get a little philosophical without going too deep, the past and the future do not actually exist. The past at once existed and is no more. The future may or may not exist eventually, but is not even here yet. The only moment in time that actually exists is, you guest it, now! Although we should be thinking about our past and future, our present is really the most important. What we are doing right this very moment means more to the influences on our lives than any other moment. Just think for a second how important it was for me to write this chapter when I did. Now think about the fact you are reading it right now. As I write this chapter, I'm focused on the importance of the message it conveys. Although it has been influenced by my past, and it will influence our futures together, it would not have ever existed if I did not write it the moment when I did.
+
+With that in mind, at some point you decided you were going to read this book. And I really appreciate that you did. Something about your past or something about your future helped you to make that decision. But if you didn't take this moment to read this now, it would have absolute zero impact on you. The same goes with everything that you do. Live each moment learning from the past and preparing for the future. Love where you have been or are from. Love where you hope you will be someday. However, take full advantage of every "now" you are given. None of us are guaranteed a certain number of moments in our lives. Whether you are perfectly healthy or dying of a terminal disease, you do have this moment right now. And now is the best place to be.
