@@ -1,8 +1,9 @@
 ---
 title: Introduction
 top_level: false
-date: 2022-10-29T13:39:54.806Z
-published: false
+date: 2023-01-29T23:57:39.109Z
+published: true
+featured_image: /images/brasher-dsc02579.jpeg
 tags:
   - Book
   - VitaminG
