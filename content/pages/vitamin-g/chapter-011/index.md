@@ -1,7 +1,8 @@
 ---
 title: Be in the Now
 top_level: false
-date: 2023-01-30T15:17:33.182Z
+date: 2023-01-30T16:55:36.251Z
+published: true
 featured_image: /images/honeymoon-island-state-park-img_0274.jpeg
 tags:
   - Book
