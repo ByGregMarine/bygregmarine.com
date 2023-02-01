@@ -10,6 +10,6 @@ tags:
   - Motivation
   - VitaminG
 ---
-A weekly dose of motivation to encourage you to your best life.
+A weekly dose of motivation to inspire you to a good life.
 
 *Copyright 2023 Greg Marine*
