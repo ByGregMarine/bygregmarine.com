@@ -7,22 +7,23 @@ published: false
 # Devotional on 1 Corinthians 9:24-27
 
 ## I. Introduction
-  - Briefly introduce the verse (1 Corinthians 9:24-27)
+  - Briefly introduce the verses (1 Corinthians 9:24-27)
   - Explain the context and background of the book of 1 Corinthians in the Bible
-  - Emphasize the importance of self-discipline and perseverance in our spiritual journey
+  - Emphasize the importance of running the race of life with perseverance and determination
 
-## II. Running the Race
-  - Discuss what the verse means when it says "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize"
-  - Explain how this applies to our spiritual journey and the importance of running the race with perseverance and self-discipline
+## II. The Meaning of the Verse
+  - Discuss the meaning of the verses "Do you not know that in a race all the runners run, but only one gets the prize? Run in such a way as to get the prize. Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever. Therefore I do not run like someone running aimlessly; I do not fight like a boxer beating the air. No, I strike a blow to my body and make it my slave so that after I have preached to others, I myself will not be disqualified for the prize."
+  - Explain how this applies to our life and the importance of running the race of life with perseverance and determination
+  - Share a personal experience that demonstrates the truth of this verse in your life
 
-## III. Self-Discipline and Sacrifice
-  - Discuss what the verse means when it says "Everyone who competes in the games goes into strict training. They do it to get a crown that will not last, but we do it to get a crown that will last forever"
-  - Explain how this applies to our spiritual self-discipline and the sacrifices we make in our spiritual journey
+## III. The Race of Life
+  - Discuss the idea of life as a race that we must run with determination
+  - Explain the importance of running the race with a purpose and not aimlessly
 
-## IV. Focusing on the Prize
-  - Discuss the idea of focusing on the prize, which is an eternal reward in heaven
-  - Explain how this can motivate and encourage us to persevere in our spiritual journey
+## IV. The Prize
+  - Discuss the idea of the prize being our reward in heaven
+  - Explain how this should motivate us to run the race of life with perseverance and determination
 
 ## V. Conclusion
   - Summarize the main points of the devotional
-  - Encourage the audience to reflect on their own spiritual journey and the importance of self-discipline and perseverance in running the race to receive the eternal reward in heaven.
+  - Encourage the audience to reflect on their own life and the race they are running, and to run with perseverance and determination, focused on the prize ahead.
