@@ -30,3 +30,26 @@ Self Expectations
 - Say no
 - Respect
 - "Do unto others as you'd have them do to you"
+
+
+# ChatGPT outline
+
+## I. Introduction
+  - A. Explanation of the high expectations set by the world
+  - B. Importance of setting one's own level of expectation
+  
+## II. Setting Your Own Expectations
+  - A. Listening to your soul 
+    - 1. Understanding your desires and goals 
+    - 2. Ignoring external influences and societal norms 
+  - B. Showing the world what to expect from you 
+    - 1. Leading by example 
+    - 2. Being confident in your own abilities and values 
+
+## III. Encouraging Others to Listen to Their Souls
+  - A. The benefits of following one's soul 
+    - 1. Increased happiness and fulfillment 
+    - 2. Living a life true to oneself 
+  - B. Helping others find their own path 
+    - 1. Supporting and encouraging their goals 
+    - 2. Providing guidance and resources 
