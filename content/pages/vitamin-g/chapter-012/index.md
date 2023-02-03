@@ -1,8 +1,7 @@
 ---
-title: Future You
+title: Be Kind to Yourself
 top_level: false
-date: 2022-11-02T11:42:09.686Z
-published: false
+date: 2022-10-19T12:48:27.703Z
 tags:
   - Book
   - VitaminG
@@ -10,4 +9,19 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> There is a version of you in the future that you are striving to become. Look forward to meeting that person because they are even more amazing than you are today. Consider yourself a work in progress. You'll get there!
+> Be kind to yourself today. No one else knows what you have been going through. And in many ways, you may not truly understand what you are going through.
+
+Childhood depression
+- Early sadness
+- Empathy
+- Unreasonable expectations of myself
+
+Adulthood depression
+- Move to Illinois with young family
+- Time in mental hospitals
+- Suicide attempt
+
+Ok to feel the all the feelings
+- Tell yourself it is ok to feel
+- Accept not understanding
+- Ask for help, it's ok!

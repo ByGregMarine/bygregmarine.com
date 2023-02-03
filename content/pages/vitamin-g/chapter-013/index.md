@@ -1,7 +1,8 @@
 ---
-title: Be Kind to Yourself
+title: Future You
 top_level: false
-date: 2022-10-19T12:48:27.703Z
+date: 2022-11-02T11:42:09.686Z
+published: false
 tags:
   - Book
   - VitaminG
@@ -9,19 +10,15 @@ tags:
   - Motivational
   - SocialMedia
 ---
-> Be kind to yourself today. No one else knows what you have been going through. And in many ways, you may not truly understand what you are going through.
+> There is a version of you in the future that you are striving to become. Look forward to meeting that person because they are even more amazing than you are today. Consider yourself a work in progress. You'll get there!
 
-Childhood depression
-- Early sadness
-- Empathy
-- Unreasonable expectations of myself
+Revisions
 
-Adulthood depression
-- Move to Illinois with young family
-- Time in mental hospitals
-- Suicide attempt
+This book; where it was and where it is
 
-Ok to feel the all the feelings
-- Tell yourself it is ok to feel
-- Accept not understanding
-- Ask for help, it's ok!
+Reference chapter 11 with mountain bike story
+
+High level explanation of SDLC
+- MVP
+- Roadmaps
+- Sprints?
