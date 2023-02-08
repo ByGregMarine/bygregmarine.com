@@ -1,5 +1,5 @@
 ---
-title: Now is the Best
+title: Now
 top_level: false
 date: 2023-01-30T16:55:36.251Z
 published: true
