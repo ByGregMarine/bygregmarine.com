@@ -2,6 +2,7 @@
 title: Be Kind to Yourself
 top_level: false
 date: 2022-10-19T12:48:27.703Z
+featured_image: /images/gables-at-gulf-view-dsc02133.jpeg
 tags:
   - Book
   - VitaminG
