@@ -1,5 +1,5 @@
 ---
-title: Be YOUR Best
+title: YOUR Best
 top_level: false
 date: 2023-01-23T13:57:30.287Z
 published: true
