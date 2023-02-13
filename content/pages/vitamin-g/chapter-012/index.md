@@ -1,7 +1,8 @@
 ---
 title: Be Kind to Yourself
 top_level: false
-date: 2022-10-19T12:48:27.703Z
+date: 2023-02-13T13:56:27.975Z
+published: true
 featured_image: /images/gables-at-gulf-view-dsc02133.jpeg
 tags:
   - Book
