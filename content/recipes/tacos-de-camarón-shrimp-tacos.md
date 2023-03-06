@@ -3,6 +3,31 @@ title: Tacos de Camarón (Shrimp Tacos)
 date: 2023-03-06T13:52:05.421Z
 published: false
 featured_image: /images/img_1756.jpeg
+ingredients:
+  - qty: "3"
+    ingredient: Yellow corn tortillas
+    note: Street taco size
+  - qty: "1.5"
+    unit: cup(s)
+    ingredient: Slaw blend or just cabbage
+  - qty: "12"
+    unit: small
+    ingredient: Shrimp
+  - qty: "2"
+    unit: tbsp(s)
+    ingredient: All purpose flour
+  - qty: "1"
+    unit: large
+    ingredient: Egg
+  - qty: "2"
+    unit: tbsp(s)
+    ingredient: Corn meal
+  - qty: "2"
+    unit: tbsp(s)
+    ingredient: Grated parmasan cheese
+  - qty: "1"
+    unit: tbsp(s)
+    ingredient: Paprika
 tags:
   - Mexican
   - Disney
