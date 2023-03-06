@@ -24,7 +24,7 @@ ingredients:
     ingredient: Corn meal
   - qty: "2"
     unit: tbsp(s)
-    ingredient: Grated parmasan cheese
+    ingredient: Grated parmesan cheese
   - qty: "1"
     unit: tbsp(s)
     ingredient: Paprika
