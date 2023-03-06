@@ -41,6 +41,15 @@ ingredients:
   - qty: "6"
     unit: tbsp(s)
     ingredient: Mango salsa
+instructions:
+  - instruction: Put flour in a bowl and set aside
+  - instruction: Beat egg in a second bowl and set aside
+  - instruction: Combine corn meal, parmesan cheese, and paprika in a third bowl and
+      set aside
+  - instruction: Pat dry all of the shrimp
+    note: I typically just use a few layers of paper towel on a plate
+  - instruction: Coat each shrimp with flour, then dip in egg, and coat with corn
+      meal/parmesan cheese/paprika mix
 tags:
   - Mexican
   - Disney
