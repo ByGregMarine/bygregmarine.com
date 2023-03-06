@@ -57,7 +57,7 @@ instructions:
       golden
     note: ""
   - instruction: If sautéing slaw/cabbage, heat up olive oil in pan on medium heat
-      and sauté to desired texture
+      and sauté to desired texture (Optional step if you prefer raw)
   - instruction: Just before sauté step is complete, place the tortillas over
       slaw/cabbage in a single layer (This is optional. I like to do this to
       warm the tortillas before building the tacos.)
