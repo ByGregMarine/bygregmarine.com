@@ -28,6 +28,19 @@ ingredients:
   - qty: "1"
     unit: tbsp(s)
     ingredient: Paprika
+  - qty: "1.5"
+    unit: tbsp(s)
+    ingredient: Olive oil
+    note: Only if you plan to sauté the slaw/cabbage
+  - qty: 1/4
+    unit: cup(s)
+    ingredient: Vegetable oil
+  - qty: "3"
+    unit: tbsp(s)
+    ingredient: Salsa Verde
+  - qty: "6"
+    unit: tbsp(s)
+    ingredient: Mango salsa
 tags:
   - Mexican
   - Disney
