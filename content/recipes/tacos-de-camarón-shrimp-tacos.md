@@ -41,6 +41,8 @@ ingredients:
   - qty: "6"
     unit: tbsp(s)
     ingredient: Mango salsa
+    note: Any salsa will do. But I've found the best flavor from mango or
+      mango-peach salsa.
 instructions:
   - instruction: Put flour in a bowl and set aside
   - instruction: Beat egg in a second bowl and set aside
@@ -50,6 +52,22 @@ instructions:
     note: I typically just use a few layers of paper towel on a plate
   - instruction: Coat each shrimp with flour, then dip in egg, and coat with corn
       meal/parmesan cheese/paprika mix
+  - instruction: If using store bought corn tortillas, cook each on a comal (or
+      frying pan) on medium to medium-high heat
+    note: 1-1.5 mins each side until golden
+  - instruction: If sautéing slaw/cabbage, heat up olive oil in pan on medium heat
+      and sauté to desired texture
+  - instruction: Just before sauté step is complete, place the tortillas over
+      slaw/cabbage in a single layer
+    note: This is optional. I like to do this to warm the tortillas before building
+      the tacos.
+  - instruction: Place tortillas on a plate and put equal amounts of slaw/cabbage on
+      each tortilla
+  - instruction: Heat vegetable oil in frying pan on medium heat
+  - instruction: Fry breaded shrimp in vegetable oil for 1 minute each side
+  - instruction: Place 4 shrimp evenly on each tortilla
+  - instruction: Apply 1 tbsp of salsa verde on each taco
+  - instruction: Apply 2 tbsp of mango salsa on each taco
 tags:
   - Mexican
   - Disney
