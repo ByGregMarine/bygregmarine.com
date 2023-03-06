@@ -69,6 +69,9 @@ instructions:
   - instruction: Place 4 shrimp evenly on each taco
   - instruction: Apply 1 tbsp of salsa verde on each taco
   - instruction: Apply 2 tbsp of mango salsa on each taco
+notes: Video coming soon! You can use pre-made tortillas, slaw mix, salsa verde,
+  and mango salsa. Or you can make your own! I prefer to sauté the slaw. But you
+  can skip those steps if you prefer your veggies raw.
 tags:
   - Mexican
   - Disney
