@@ -53,14 +53,15 @@ instructions:
   - instruction: Coat each shrimp with flour, then dip in egg, and coat with corn
       meal/parmesan cheese/paprika mix
   - instruction: If using store bought corn tortillas, cook each on a comal (or
-      frying pan) on medium to medium-high heat
-    note: 1-1.5 mins each side until golden
+      frying pan) on medium to medium-high heat for 1-1.5 mins each side until
+      golden
+    note: ""
   - instruction: If sautéing slaw/cabbage, heat up olive oil in pan on medium heat
       and sauté to desired texture
   - instruction: Just before sauté step is complete, place the tortillas over
-      slaw/cabbage in a single layer
-    note: This is optional. I like to do this to warm the tortillas before building
-      the tacos.
+      slaw/cabbage in a single layer (This is optional. I like to do this to
+      warm the tortillas before building the tacos.)
+    note: ""
   - instruction: Place tortillas on a plate and put equal amounts of slaw/cabbage on
       each tortilla
   - instruction: Heat vegetable oil in frying pan on medium heat
