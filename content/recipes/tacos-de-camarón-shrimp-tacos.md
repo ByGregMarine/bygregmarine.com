@@ -66,7 +66,7 @@ instructions:
       each tortilla
   - instruction: Heat vegetable oil in frying pan on medium heat
   - instruction: Fry breaded shrimp in vegetable oil for 1 minute each side
-  - instruction: Place 4 shrimp evenly on each tortilla
+  - instruction: Place 4 shrimp evenly on each taco
   - instruction: Apply 1 tbsp of salsa verde on each taco
   - instruction: Apply 2 tbsp of mango salsa on each taco
 tags:
