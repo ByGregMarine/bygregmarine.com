@@ -48,8 +48,9 @@ instructions:
   - instruction: Beat egg in a second bowl and set aside
   - instruction: Combine corn meal, parmesan cheese, and paprika in a third bowl and
       set aside
-  - instruction: Pat dry all of the shrimp
-    note: I typically just use a few layers of paper towel on a plate
+  - instruction: Pat dry all of the shrimp (I typically just use a few layers of
+      paper towel on a plate)
+    note: ""
   - instruction: Coat each shrimp with flour, then dip in egg, and coat with corn
       meal/parmesan cheese/paprika mix
   - instruction: If using store bought corn tortillas, cook each on a comal (or
