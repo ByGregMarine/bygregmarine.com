@@ -30,6 +30,10 @@ High level explanation of SDLC
 - Introduce the concept of a "future self" and explain how it can be a motivating force for personal growth and development.
 - Preview the structure of the chapter and what readers can expect to gain from reading it.
 
+Sometime in my mid to late twenties, my dad invited my brother, brother-in-law, and myself on a quick mountain bike trip. My dad had been riding for years and wanted to take his three sons out on the trails. My brother was in pretty good shape. However, my brother-in-law and I weren't in the best of shape physically. So, dad took us on the easiest trail available at Brown County State Park near Nashville, Indiana. I'll say it was a pretty easy trail. But deep down, I have to admit that I was still quite anxious about it! Having spent years in the tech field, eating tons of junk food, and drinking quite a bit of Mountain Dew, to say I was out of shape was an extreme understatement!
+
+One of my dad's buddies, Cool Dude Ron, joined us for this adventure. One of Cool Dude Ron's pieces of advice was to look about 15 feet ahead of you on the trail to see what was ahead and prepare for it. Doing so helps you see the hills, valleys, and turns throughout the trail in plenty of time to know how you should handle what is just head. Do not look straight down and do not look so far ahead that you miss what you are about to come across. For the first part of the trail, I found it quite easy to follow this advice. But then I came to a narrow rock formation that I had to cross. My gaze quickly focused on that narrow target so that I would not miss it. All of a sudden, my bike and I were no longer moving forward! I crashed right into a tree just on the other side of those rocks.
+
 ## Section 1: Recognizing Your Future Self
 - Define what a future self is and why it's important to have one.
 - Discuss the benefits of having a clear vision of your future self, such as increased motivation and direction.
