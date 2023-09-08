@@ -3,7 +3,7 @@ title: Celestial
 top_level: false
 date: 2023-09-01T18:45:18.323Z
 published: true
-featured_image: /images/img_0555.jpeg
+featured_image: /images/celestial-img_0555.jpg
 tags:
   - Digital
   - Art
