@@ -7,6 +7,8 @@ featured_image: ""
 tags:
   - Digital
   - Art
+  - Beach
+  - PhotoArt
 ---
 # Evening at the Beach
 
