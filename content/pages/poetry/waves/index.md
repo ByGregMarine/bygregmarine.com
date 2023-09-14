@@ -13,9 +13,7 @@ tags:
   - Peace
 ---
 Ocean waves crash
-
 Taking away my troubles
-
 My heart is at peace
 
 * A Haiku by Greg Marine (2023/02/28)
