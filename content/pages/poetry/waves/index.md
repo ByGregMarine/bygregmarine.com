@@ -2,8 +2,8 @@
 title: Waves
 top_level: false
 date: 2023-02-28T19:12:00.111Z
-published: false
-featured_image: ""
+published: true
+featured_image: /images/waves-img_0559.jpeg
 tags:
   - Poem
   - Haiku
