@@ -18,4 +18,4 @@ We walk different paths
 
 Respect is given
 
-* Haiku by Greg Marine (2023/04/28)
+* A Haiku by Greg Marine (2023/04/28)
