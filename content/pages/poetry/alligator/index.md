@@ -1,19 +1,21 @@
 ---
 title: Alligator
 top_level: false
-date: 2023-09-14T18:31:41.398Z
-published: false
-featured_image: ""
+date: 2023-04-28T18:31:41.398Z
+published: true
+featured_image: /images/alligator-img_0560.jpg
 tags:
   - Poem
   - Haiku
-  - Ocean
-  - Waves
-  - Beach
-  - Peace
+  - Alligator
+  - Florida
+  - ThisIsFlorida
+  - Wildlife
 ---
 We see each other
+
 We walk different paths
+
 Respect is given
 
 * Haiku by Greg Marine (2023/04/28)
