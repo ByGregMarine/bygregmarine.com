@@ -6,11 +6,11 @@ published: false
 featured_image: ""
 tags:
   - Poem
-  - Nicole
-  - Hurricane
-  - TropicalStorm
-  - FirstYearInFlorida
-  - Florida
+  - Haiku
+  - Ocean
+  - Waves
+  - Beach
+  - Peace
 ---
 Ocean waves crash
 
