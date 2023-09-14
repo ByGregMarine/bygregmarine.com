@@ -13,9 +13,7 @@ tags:
   - Wildlife
 ---
 We see each other
-
 We walk different paths
-
 Respect is given
 
 * A Haiku by Greg Marine (2023/04/28)
