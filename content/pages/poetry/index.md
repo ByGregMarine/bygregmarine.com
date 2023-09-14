@@ -2,9 +2,9 @@
 title: Poetry
 top_level: true
 date: 2022-10-09T16:10:14.647Z
-published: false
+published: true
 tags:
   - Poems
   - Poetry
 ---
-Poems
+Random writings that qualify as poems.
