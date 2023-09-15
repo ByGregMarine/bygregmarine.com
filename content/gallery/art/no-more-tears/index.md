@@ -12,6 +12,6 @@ tags:
 ---
 # No More Tears
 
-
+As I painted this, I was going through a divorce. The pain of that life event will always be there. However, the tears finally ended the day I painted this work.
 
 ![No More Tears painting on a mini easel on a desk in front of a window](/images/no-more-tears-img_0631.jpeg "No More Tears painting on a mini easel on a desk in front of a window")
