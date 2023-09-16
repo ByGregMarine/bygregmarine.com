@@ -2,17 +2,18 @@
 title: Zen
 top_level: false
 date: 2021-10-20T14:50:14.229Z
-published: false
+published: true
 featured_image: /images/zen-img_0733.jpeg
 tags:
   - Art
   - Painting
   - Japan
+  - Japanese
   - Pagoda
-  - EPCOT
-  - WDW
-  - WaltDisneyWorld
-  - DisneyWorld
+  - Tree
+  - Mountain
+  - CherryBlossom
+  - Zen
 ---
 # Zen
 
