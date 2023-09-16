@@ -13,6 +13,7 @@ tags:
   - Zen
   - Fuji
   - Japan
+  - PhotoArt
 ---
 # Sunset on Fuji
 
