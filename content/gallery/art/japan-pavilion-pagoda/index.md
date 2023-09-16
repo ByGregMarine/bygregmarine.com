@@ -2,13 +2,17 @@
 title: Japan Pavilion Pagoda
 top_level: false
 date: 2021-10-19T14:31:34.562Z
-published: false
+published: true
 featured_image: /images/japan-pavilion-pagoda-img_0709.jpeg
 tags:
   - Art
   - Painting
-  - Abstract
-  - Emotional
+  - Japan
+  - Pagoda
+  - EPCOT
+  - WDW
+  - WaltDisneyWorld
+  - DisneyWorld
 ---
 # Japan Pavilion Pagoda
 
