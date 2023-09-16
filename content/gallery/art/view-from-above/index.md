@@ -10,6 +10,7 @@ tags:
   - Landscape
   - Geist
   - Indianapolis
+  - PhotoArt
 ---
 # View from Above
 
