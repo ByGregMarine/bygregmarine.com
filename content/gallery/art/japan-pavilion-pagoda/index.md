@@ -13,6 +13,7 @@ tags:
   - WDW
   - WaltDisneyWorld
   - DisneyWorld
+  - PhotoArt
 ---
 # Japan Pavilion Pagoda
 
