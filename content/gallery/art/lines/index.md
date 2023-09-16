@@ -2,7 +2,7 @@
 title: Lines
 top_level: false
 date: 2021-10-26T15:08:49.581Z
-published: false
+published: true
 featured_image: /images/lines-img_0831.jpeg
 tags:
   - Art
