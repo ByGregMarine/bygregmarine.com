@@ -15,6 +15,7 @@ tags:
   - Torii
   - ToriiGate
   - Icon
+  - PhotoArt
 ---
 # Gateway to the Future
 
