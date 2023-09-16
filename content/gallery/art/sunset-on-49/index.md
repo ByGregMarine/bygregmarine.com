@@ -10,6 +10,7 @@ tags:
   - Sunset
   - Landscape
   - Birthday
+  - PhotoArt
 ---
 # Sunset on 49
 
