@@ -2,12 +2,13 @@
 title: Happy Little Accident
 top_level: false
 date: 2023-10-04T00:13:25.772Z
-published: false
+published: true
 featured_image: /images/happy-little-accident-img_8090.jpeg
 tags:
   - Art
   - Painting
   - Abstract
+  - Canvas
 ---
 # Happy Little Accident
 
