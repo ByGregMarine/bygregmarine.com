@@ -70,9 +70,9 @@ instructions:
   - instruction: Place 4 shrimp evenly on each taco
   - instruction: Apply 1 tbsp of salsa verde on each taco
   - instruction: Apply 2 tbsp of mango salsa on each taco
-notes: Video coming soon! You can use pre-made tortillas, slaw mix, salsa verde,
-  and mango salsa. Or you can make your own! I prefer to sauté the slaw. But you
-  can skip those steps if you prefer your veggies raw.
+notes: You can use pre-made tortillas, slaw mix, salsa verde, and mango salsa.
+  Or you can make your own! I prefer to sauté the slaw. But you can skip those
+  steps if you prefer your veggies raw.
 tags:
   - Mexican
   - Disney
@@ -85,3 +85,5 @@ tags:
   - Favorites
 ---
 One of my favorite places on Earth is the Most Magical Place on Earth, the Walt Disney World Resort in Orlando, Florida. And my favorite park at the resort is EPCOT. With a multitude of countries represented in the World Showcase, it is a foodie's paradise! For this recipe, we are entering the World Showcase and turning left into the Mexico Pavilion. Upon entering the pavilion, we quickly come to [La Cantina de San Angel](https://disneyworld.disney.go.com/dining/epcot/cantina-de-san-angel/menus/). At this location, you can choose from many entrées ranging from nachos to tacos. For me, I'm going to choose tacos! Specifically, Tacos de Camarón, or shrimp tacos. This recipe is inspired by that delicious option at EPCOT.
+
+This recipe was featured in a collaboration video on YouTube. You can find it [here](https://youtu.be/n6npEqFNulg?si=h2aSJnRE6U1f-pSt&t=554)!
